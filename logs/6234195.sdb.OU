@@ -1,0 +1,53 @@
+--------------------------------------------------------------------------------
+*** bkm1n   Job: 6234195.sdb   started: 25/05/19 18:58:45   host: mom5 ***
+*** bkm1n   Job: 6234195.sdb   started: 25/05/19 18:58:45   host: mom5 ***
+*** bkm1n   Job: 6234195.sdb   started: 25/05/19 18:58:45   host: mom5 ***
+*** bkm1n   Job: 6234195.sdb   started: 25/05/19 18:58:45   host: mom5 ***
+
+--------------------------------------------------------------------------------
+/work/y14/y14/bkm1n/bkm1n/MPI/archer
+--------------------------------------------------------------------------------
+Running MPI program parallel on 24 processes
+Started at Sat May 25 18:58:45 BST 2019
+--------------------------------------------------------------------------------
+pgmsize: cannot open <./im/edge784x784.pgm>
+pgmsize: cannot open <./im/edge784x784.pgm>
+pgmsize: cannot open <./im/edge784x784.pgm>
+pgmsize: cannot open <./im/edge784x784.pgm>
+pgmsize: cannot open <./im/edge784x784.pgm>
+pgmsize: cannot open <./im/edge784x784.pgm>
+pgmsize: cannot open <./im/edge784x784.pgm>
+pgmsize: cannot open <./im/edge784x784.pgm>
+pgmsize: cannot open <./im/edge784x784.pgm>
+pgmsize: cannot open <./im/edge784x784.pgm>
+pgmsize: cannot open <./im/edge784x784.pgm>
+pgmsize: cannot open <./im/edge784x784.pgm>
+pgmsize: cannot open <./im/edge784x784.pgm>
+pgmsize: cannot open <./im/edge784x784.pgm>
+pgmsize: cannot open <./im/edge784x784.pgm>
+pgmsize: cannot open <./im/edge784x784.pgm>
+pgmsize: cannot open <./im/edge784x784.pgm>
+pgmsize: cannot open <./im/edge784x784.pgm>
+pgmsize: cannot open <./im/edge784x784.pgm>
+pgmsize: cannot open <./im/edge784x784.pgm>
+pgmsize: cannot open <./im/edge784x784.pgm>
+pgmsize: cannot open <./im/edge784x784.pgm>
+pgmsize: cannot open <./im/edge784x784.pgm>
+pgmsize: cannot open <./im/edge784x784.pgm>
+[NID 02806] 2019-05-25 18:58:48 Apid 36012978: initiated application termination
+
+real	0m3.036s
+user	0m0.448s
+sys	0m0.176s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 18:58:48 BST 2019
+--------------------------------------------------------------------------------
+
+Resources requested: ncpus=24,place=free,walltime=00:01:00
+Resources allocated: cpupercent=0,cput=00:00:01,mem=0kb,ncpus=24,vmem=0kb,walltime=00:00:04
+
+*** bkm1n   Job: 6234195.sdb   ended: 25/05/19 18:58:49   queue: R6210562 ***
+*** bkm1n   Job: 6234195.sdb   ended: 25/05/19 18:58:49   queue: R6210562 ***
+*** bkm1n   Job: 6234195.sdb   ended: 25/05/19 18:58:49   queue: R6210562 ***
+*** bkm1n   Job: 6234195.sdb   ended: 25/05/19 18:58:49   queue: R6210562 ***
+--------------------------------------------------------------------------------

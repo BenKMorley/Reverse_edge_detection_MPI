@@ -1,0 +1,21 @@
+NAME=parallel
+NPROC=$1
+FILENAME=$2
+
+
+# Determine the correct number of compute nodes
+SELECT=$((NPROC/25 + 1))
+
+# compile
+cc ./c/${NAME}.c -o ./ex/$NAME
+
+# Make a .pbs file
+cp archermpi.pbs ./pbs/${NAME}.pbs
+
+# Edit that file to change the number of processes and cores
+sed -i "s/^NPROC=.*/NPROC=${NPROC}/" ./pbs/${NAME}.pbs
+sed -i "s/^FILENAME=.*/FILENAME=${FILENAME}/" ./pbs/${NAME}.pbs
+sed -i "s/^#PBS -l select=.*/#PBS -l select=${SELECT}/" ./pbs/${NAME}.pbs
+
+# Submit the job to the queue
+qsub -q short ./pbs/${NAME}.pbs

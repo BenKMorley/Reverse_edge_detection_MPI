@@ -1,0 +1,183 @@
+Process 9 here with coords : [2, 1]
+Process 3 here with coords : [0, 3]
+Process 14 here with coords : [3, 2]
+Process 16 here with coords : [4, 0]
+Process 4 here with coords : [1, 0]
+Process 5 here with coords : [1, 1]
+Process 17 here with coords : [4, 1]
+Process 19 here with coords : [4, 3]
+Process 11 here with coords : [2, 3]
+Process 29 here with coords : [7, 1]
+Process 31 here with coords : [7, 3]
+Process 25 here with coords : [6, 1]
+Process 30 here with coords : [7, 2]
+Process 27 here with coords : [6, 3]
+Process 28 here with coords : [7, 0]
+Process 26 here with coords : [6, 2]
+Process 24 here with coords : [6, 0]
+Process 22 here with coords : [5, 2]
+Process 15 here with coords : [3, 3]
+Process 7 here with coords : [1, 3]
+Process 20 here with coords : [5, 0]
+Process 10 here with coords : [2, 2]
+Process 23 here with coords : [5, 3]
+Process 13 here with coords : [3, 1]
+Process 12 here with coords : [3, 0]
+Process 21 here with coords : [5, 1]
+Process 6 here with coords : [1, 2]
+Process 1 here with coords : [0, 1]
+Process 2 here with coords : [0, 2]
+Process 8 here with coords : [2, 0]
+Process 18 here with coords : [4, 2]
+Process 0 here with coords : [0, 0]
+process 12 has neighbours up 13, down -1, left 8, right 16
+process 2 has neighbours up 3, down 1, left -1, right 6
+process 18 has neighbours up 19, down 17, left 14, right 22
+process 16 has neighbours up 17, down -1, left 12, right 20
+process 13 has neighbours up 14, down 12, left 9, right 17
+process 21 has neighbours up 22, down 20, left 17, right 25
+process 1 has neighbours up 2, down 0, left -1, right 5
+process 3 has neighbours up -1, down 2, left -1, right 7
+process 15 has neighbours up -1, down 14, left 11, right 19
+process 8 has neighbours up 9, down -1, left 4, right 12
+process 4 has neighbours up 5, down -1, left 0, right 8
+process 20 has neighbours up 21, down -1, left 16, right 24
+process 5 has neighbours up 6, down 4, left 1, right 9
+process 9 has neighbours up 10, down 8, left 5, right 13
+process 14 has neighbours up 15, down 13, left 10, right 18
+process 23 has neighbours up -1, down 22, left 19, right 27
+process 10 has neighbours up 11, down 9, left 6, right 14
+process 6 has neighbours up 7, down 5, left 2, right 10
+process 22 has neighbours up 23, down 21, left 18, right 26
+process 17 has neighbours up 18, down 16, left 13, right 21
+process 7 has neighbours up -1, down 6, left 3, right 11
+process 19 has neighbours up -1, down 18, left 15, right 23
+process 11 has neighbours up -1, down 10, left 7, right 15
+process 0 has neighbours up 1, down -1, left -1, right 4
+Completed 0 iterations
+delta = 126.750000
+Average pixal value = 7.972082
+Completed 100 iterations
+delta = 0.979439
+Average pixal value = 8.098839
+Completed 200 iterations
+delta = 0.495749
+Average pixal value = 8.204063
+Completed 300 iterations
+delta = 0.312983
+Average pixal value = 8.293641
+Completed 400 iterations
+delta = 0.243453
+Average pixal value = 8.370301
+Completed 500 iterations
+delta = 0.197790
+Average pixal value = 8.436858
+Completed 600 iterations
+delta = 0.166482
+Average pixal value = 8.495083
+Completed 700 iterations
+delta = 0.144408
+Average pixal value = 8.546097
+Completed 800 iterations
+delta = 0.126652
+Average pixal value = 8.590703
+Completed 900 iterations
+delta = 0.112330
+Average pixal value = 8.629545
+Completed 1000 iterations
+delta = 0.100463
+Average pixal value = 8.663180
+Completed 1100 iterations
+delta = 0.090534
+Average pixal value = 8.692100
+Completed 1200 iterations
+delta = 0.082151
+Average pixal value = 8.716745
+process 25 has neighbours up 26, down 24, left 21, right 29
+process 31 has neighbours up -1, down 30, left 27, right -1
+process 29 has neighbours up 30, down 28, left 25, right -1
+process 24 has neighbours up 25, down -1, left 20, right 28
+process 28 has neighbours up 29, down -1, left 24, right -1
+process 30 has neighbours up 31, down 29, left 26, right -1
+process 27 has neighbours up -1, down 26, left 23, right 31
+process 26 has neighbours up 27, down 25, left 22, right 30
+Completed 1300 iterations
+delta = 0.075011
+Average pixal value = 8.737508
+Completed 1400 iterations
+delta = 0.068897
+Average pixal value = 8.754736
+Completed 1500 iterations
+delta = 0.063600
+Average pixal value = 8.768738
+Completed 1600 iterations
+delta = 0.058973
+Average pixal value = 8.779785
+Completed 1700 iterations
+delta = 0.054900
+Average pixal value = 8.788117
+Completed 1800 iterations
+delta = 0.051288
+Average pixal value = 8.793946
+Completed 1900 iterations
+delta = 0.048062
+Average pixal value = 8.797460
+Completed 2000 iterations
+delta = 0.045161
+Average pixal value = 8.798827
+Completed 2100 iterations
+delta = 0.042539
+Average pixal value = 8.798195
+Completed 2200 iterations
+delta = 0.040157
+Average pixal value = 8.795702
+Completed 2300 iterations
+delta = 0.037999
+Average pixal value = 8.791467
+Completed 2400 iterations
+delta = 0.036020
+Average pixal value = 8.785604
+Completed 2500 iterations
+delta = 0.034201
+Average pixal value = 8.778213
+Completed 2600 iterations
+delta = 0.032518
+Average pixal value = 8.769389
+Completed 2700 iterations
+delta = 0.030978
+Average pixal value = 8.759219
+Completed 2800 iterations
+delta = 0.029545
+Average pixal value = 8.747785
+Completed 2900 iterations
+delta = 0.028210
+Average pixal value = 8.735162
+Completed 3000 iterations
+delta = 0.026980
+Average pixal value = 8.721421
+Completed 3100 iterations
+delta = 0.025827
+Average pixal value = 8.706629
+Completed 3200 iterations
+delta = 0.024754
+Average pixal value = 8.690850
+Completed 3300 iterations
+delta = 0.023754
+Average pixal value = 8.674144
+Completed 3400 iterations
+delta = 0.022813
+Average pixal value = 8.656567
+Completed 3500 iterations
+delta = 0.021942
+Average pixal value = 8.638173
+Completed 3600 iterations
+delta = 0.021120
+Average pixal value = 8.619014
+Completed 3700 iterations
+delta = 0.020349
+Average pixal value = 8.599138
+Completed 3800 iterations
+delta = 0.019627
+Average pixal value = 8.578593
+Writing 256 x 192 picture into file: ./im/out_32_edge256x192.pgm
+Application 36028341 resources: utime ~6s, stime ~2s, Rss ~12808, inblocks ~39877, outblocks ~39716

@@ -1,0 +1,31 @@
+--------------------------------------------------------------------------------
+*** bkm1n   Job: 6234401.sdb   started: 25/05/19 21:22:31   host: mom4 ***
+*** bkm1n   Job: 6234401.sdb   started: 25/05/19 21:22:31   host: mom4 ***
+*** bkm1n   Job: 6234401.sdb   started: 25/05/19 21:22:31   host: mom4 ***
+*** bkm1n   Job: 6234401.sdb   started: 25/05/19 21:22:31   host: mom4 ***
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Running MPI program parallel on 1 processes
+Started at Sat May 25 21:22:41 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m3.255s
+user	0m0.432s
+sys	0m0.148s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 2 processes
+Started at Sat May 25 21:22:45 BST 2019
+--------------------------------------------------------------------------------
+aprun: Apid 36016186: Caught signal Terminated, sending to application
+_pmiu_daemon(SIGCHLD): [NID 02702] [c6-1c0s3n2] [Sat May 25 21:23:33 2019] PE RANK 0 exit signal Terminated
+--------------------------------------------------------------------------------
+
+Resources requested: ncpus=24,place=free,walltime=00:10:00
+Resources allocated: cpupercent=0,cput=00:00:06,mem=9236kb,ncpus=24,vmem=188736kb,walltime=00:01:03
+
+*** bkm1n   Job: 6234401.sdb   ended: 25/05/19 21:23:49   queue: standard ***
+*** bkm1n   Job: 6234401.sdb   ended: 25/05/19 21:23:49   queue: standard ***
+*** bkm1n   Job: 6234401.sdb   ended: 25/05/19 21:23:49   queue: standard ***
+*** bkm1n   Job: 6234401.sdb   ended: 25/05/19 21:23:49   queue: standard ***
+--------------------------------------------------------------------------------

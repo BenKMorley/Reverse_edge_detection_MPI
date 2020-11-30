@@ -1,0 +1,453 @@
+--------------------------------------------------------------------------------
+*** bkm1n   Job: 6234335.sdb   started: 25/05/19 20:25:34   host: mom4 ***
+*** bkm1n   Job: 6234335.sdb   started: 25/05/19 20:25:34   host: mom4 ***
+*** bkm1n   Job: 6234335.sdb   started: 25/05/19 20:25:34   host: mom4 ***
+*** bkm1n   Job: 6234335.sdb   started: 25/05/19 20:25:34   host: mom4 ***
+
+--------------------------------------------------------------------------------
+CC-2151 craycc: ERROR in command line
+  The source file "./c/performance_1.p.c" is unavailable.
+CC-2107 craycc: ERROR in command line
+  No valid filenames are specified on the command line.
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 1 processes
+Started at Sat May 25 20:25:35 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.899s
+user	0m0.144s
+sys	0m0.104s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:25:36 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 2 processes
+Started at Sat May 25 20:25:36 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.901s
+user	0m0.156s
+sys	0m0.092s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:25:37 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 3 processes
+Started at Sat May 25 20:25:37 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.856s
+user	0m0.128s
+sys	0m0.096s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:25:38 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 4 processes
+Started at Sat May 25 20:25:38 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.864s
+user	0m0.136s
+sys	0m0.088s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:25:39 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 6 processes
+Started at Sat May 25 20:25:39 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.890s
+user	0m0.172s
+sys	0m0.052s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:25:40 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 8 processes
+Started at Sat May 25 20:25:40 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.910s
+user	0m0.172s
+sys	0m0.080s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:25:40 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 12 processes
+Started at Sat May 25 20:25:40 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.907s
+user	0m0.152s
+sys	0m0.100s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:25:41 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 16 processes
+Started at Sat May 25 20:25:41 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.911s
+user	0m0.160s
+sys	0m0.088s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:25:42 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 24 processes
+Started at Sat May 25 20:25:42 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.917s
+user	0m0.176s
+sys	0m0.076s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:25:43 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 1 processes
+Started at Sat May 25 20:25:43 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.916s
+user	0m0.140s
+sys	0m0.112s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:25:44 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 2 processes
+Started at Sat May 25 20:25:44 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.914s
+user	0m0.148s
+sys	0m0.096s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:25:45 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 3 processes
+Started at Sat May 25 20:25:45 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.907s
+user	0m0.152s
+sys	0m0.100s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:25:46 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 4 processes
+Started at Sat May 25 20:25:46 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.918s
+user	0m0.140s
+sys	0m0.108s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:25:47 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 6 processes
+Started at Sat May 25 20:25:47 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.915s
+user	0m0.140s
+sys	0m0.108s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:25:48 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 8 processes
+Started at Sat May 25 20:25:48 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.920s
+user	0m0.128s
+sys	0m0.116s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:25:49 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 12 processes
+Started at Sat May 25 20:25:49 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.916s
+user	0m0.148s
+sys	0m0.104s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:25:50 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 16 processes
+Started at Sat May 25 20:25:50 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.930s
+user	0m0.152s
+sys	0m0.100s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:25:51 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 24 processes
+Started at Sat May 25 20:25:51 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.948s
+user	0m0.144s
+sys	0m0.104s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:25:52 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 1 processes
+Started at Sat May 25 20:25:52 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.923s
+user	0m0.140s
+sys	0m0.108s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:25:53 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 2 processes
+Started at Sat May 25 20:25:53 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.899s
+user	0m0.164s
+sys	0m0.084s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:25:53 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 3 processes
+Started at Sat May 25 20:25:53 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.948s
+user	0m0.152s
+sys	0m0.088s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:25:54 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 4 processes
+Started at Sat May 25 20:25:54 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.904s
+user	0m0.136s
+sys	0m0.112s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:25:55 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 6 processes
+Started at Sat May 25 20:25:55 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.900s
+user	0m0.136s
+sys	0m0.112s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:25:56 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 8 processes
+Started at Sat May 25 20:25:56 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.901s
+user	0m0.144s
+sys	0m0.104s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:25:57 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 12 processes
+Started at Sat May 25 20:25:57 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.920s
+user	0m0.184s
+sys	0m0.068s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:25:58 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 16 processes
+Started at Sat May 25 20:25:58 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.900s
+user	0m0.144s
+sys	0m0.092s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:25:59 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 24 processes
+Started at Sat May 25 20:25:59 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.909s
+user	0m0.144s
+sys	0m0.096s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:26:00 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 1 processes
+Started at Sat May 25 20:26:00 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.931s
+user	0m0.144s
+sys	0m0.120s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:26:01 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 2 processes
+Started at Sat May 25 20:26:01 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.978s
+user	0m0.156s
+sys	0m0.112s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:26:02 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 3 processes
+Started at Sat May 25 20:26:02 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.912s
+user	0m0.140s
+sys	0m0.104s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:26:03 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 4 processes
+Started at Sat May 25 20:26:03 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.925s
+user	0m0.160s
+sys	0m0.096s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:26:04 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 6 processes
+Started at Sat May 25 20:26:04 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m1.094s
+user	0m0.184s
+sys	0m0.048s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:26:05 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 8 processes
+Started at Sat May 25 20:26:05 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.909s
+user	0m0.160s
+sys	0m0.056s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:26:06 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 12 processes
+Started at Sat May 25 20:26:06 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.916s
+user	0m0.176s
+sys	0m0.080s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:26:07 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 16 processes
+Started at Sat May 25 20:26:07 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.914s
+user	0m0.132s
+sys	0m0.112s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:26:08 BST 2019
+--------------------------------------------------------------------------------
+Running MPI program performance_1.p on 24 processes
+Started at Sat May 25 20:26:08 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/performance_1.p not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.914s
+user	0m0.132s
+sys	0m0.120s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 20:26:09 BST 2019
+--------------------------------------------------------------------------------
+
+Resources requested: ncpus=24,place=free,walltime=00:10:00
+Resources allocated: cpupercent=0,cput=00:00:10,mem=13648kb,ncpus=24,vmem=125264kb,walltime=00:00:35
+
+*** bkm1n   Job: 6234335.sdb   ended: 25/05/19 20:26:09   queue: standard ***
+*** bkm1n   Job: 6234335.sdb   ended: 25/05/19 20:26:09   queue: standard ***
+*** bkm1n   Job: 6234335.sdb   ended: 25/05/19 20:26:09   queue: standard ***
+*** bkm1n   Job: 6234335.sdb   ended: 25/05/19 20:26:09   queue: standard ***
+--------------------------------------------------------------------------------

@@ -1,0 +1,31 @@
+--------------------------------------------------------------------------------
+*** bkm1n   Job: 6234092.sdb   started: 25/05/19 16:39:10   host: mom2 ***
+*** bkm1n   Job: 6234092.sdb   started: 25/05/19 16:39:10   host: mom2 ***
+*** bkm1n   Job: 6234092.sdb   started: 25/05/19 16:39:10   host: mom2 ***
+*** bkm1n   Job: 6234092.sdb   started: 25/05/19 16:39:10   host: mom2 ***
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Running MPI program test on 4 processes
+Started at Sat May 25 16:39:11 BST 2019
+--------------------------------------------------------------------------------
+pgmwrite: cannot create <test.pgm>
+pgmwrite: cannot create <test.pgm>
+pgmwrite: cannot create <test.pgm>
+pgmwrite: cannot create <test.pgm>
+
+real	0m2.717s
+user	0m0.360s
+sys	0m0.144s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 16:39:14 BST 2019
+--------------------------------------------------------------------------------
+
+Resources requested: ncpus=24,place=free,walltime=00:01:00
+Resources allocated: cpupercent=0,cput=00:00:01,mem=0kb,ncpus=24,vmem=0kb,walltime=00:00:04
+
+*** bkm1n   Job: 6234092.sdb   ended: 25/05/19 16:39:14   queue: R6210562 ***
+*** bkm1n   Job: 6234092.sdb   ended: 25/05/19 16:39:14   queue: R6210562 ***
+*** bkm1n   Job: 6234092.sdb   ended: 25/05/19 16:39:14   queue: R6210562 ***
+*** bkm1n   Job: 6234092.sdb   ended: 25/05/19 16:39:14   queue: R6210562 ***
+--------------------------------------------------------------------------------

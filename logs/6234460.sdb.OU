@@ -1,0 +1,357 @@
+--------------------------------------------------------------------------------
+*** bkm1n   Job: 6234460.sdb   started: 25/05/19 22:22:05   host: mom2 ***
+*** bkm1n   Job: 6234460.sdb   started: 25/05/19 22:22:05   host: mom2 ***
+*** bkm1n   Job: 6234460.sdb   started: 25/05/19 22:22:05   host: mom2 ***
+*** bkm1n   Job: 6234460.sdb   started: 25/05/19 22:22:05   host: mom2 ***
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Running MPI program parallel on 1 processes
+Started at Sat May 25 22:22:15 BST 2019
+--------------------------------------------------------------------------------
+Rank 0 [Sat May 25 22:22:17 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+_pmiu_daemon(SIGCHLD): [NID 02805] [c6-1c1s13n1] [Sat May 25 22:22:17 2019] PE RANK 0 exit signal Aborted
+
+real	0m2.758s
+user	0m0.456s
+sys	0m0.144s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 2 processes
+Started at Sat May 25 22:22:17 BST 2019
+--------------------------------------------------------------------------------
+Rank 0 [Sat May 25 22:22:22 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 1 [Sat May 25 22:22:22 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+_pmiu_daemon(SIGCHLD): [NID 02805] [c6-1c1s13n1] [Sat May 25 22:22:22 2019] PE RANK 0 exit signal Aborted
+
+real	0m4.746s
+user	0m0.444s
+sys	0m0.164s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 3 processes
+Started at Sat May 25 22:22:22 BST 2019
+--------------------------------------------------------------------------------
+Rank 0 [Sat May 25 22:22:26 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 2 [Sat May 25 22:22:26 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 1 [Sat May 25 22:22:26 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+_pmiu_daemon(SIGCHLD): [NID 02805] [c6-1c1s13n1] [Sat May 25 22:22:26 2019] PE RANK 0 exit signal Aborted
+
+real	0m4.634s
+user	0m0.464s
+sys	0m0.136s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 4 processes
+Started at Sat May 25 22:22:27 BST 2019
+--------------------------------------------------------------------------------
+Rank 1 [Sat May 25 22:22:31 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 3 [Sat May 25 22:22:31 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 2 [Sat May 25 22:22:31 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 0 [Sat May 25 22:22:31 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+_pmiu_daemon(SIGCHLD): [NID 02805] [c6-1c1s13n1] [Sat May 25 22:22:31 2019] PE RANK 1 exit signal Aborted
+[NID 02805] 2019-05-25 22:22:31 Apid 36017122: initiated application termination
+
+real	0m4.713s
+user	0m0.432s
+sys	0m0.164s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 6 processes
+Started at Sat May 25 22:22:31 BST 2019
+--------------------------------------------------------------------------------
+Rank 1 [Sat May 25 22:22:36 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 2 [Sat May 25 22:22:36 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 3 [Sat May 25 22:22:36 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 4 [Sat May 25 22:22:36 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 5 [Sat May 25 22:22:36 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 0 [Sat May 25 22:22:36 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+_pmiu_daemon(SIGCHLD): [NID 02805] [c6-1c1s13n1] [Sat May 25 22:22:36 2019] PE RANK 1 exit signal Aborted
+[NID 02805] 2019-05-25 22:22:36 Apid 36017124: initiated application termination
+
+real	0m4.667s
+user	0m0.476s
+sys	0m0.128s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 8 processes
+Started at Sat May 25 22:22:36 BST 2019
+--------------------------------------------------------------------------------
+Rank 0 [Sat May 25 22:22:41 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 2 [Sat May 25 22:22:41 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 3 [Sat May 25 22:22:41 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 4 [Sat May 25 22:22:41 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 6 [Sat May 25 22:22:41 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 1 [Sat May 25 22:22:41 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 7 [Sat May 25 22:22:41 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 5 [Sat May 25 22:22:41 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+_pmiu_daemon(SIGCHLD): [NID 02805] [c6-1c1s13n1] [Sat May 25 22:22:41 2019] PE RANK 2 exit signal Aborted
+[NID 02805] 2019-05-25 22:22:41 Apid 36017126: initiated application termination
+
+real	0m4.800s
+user	0m0.456s
+sys	0m0.144s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 12 processes
+Started at Sat May 25 22:22:41 BST 2019
+--------------------------------------------------------------------------------
+Rank 11 [Sat May 25 22:22:45 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 1 [Sat May 25 22:22:45 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 9 [Sat May 25 22:22:45 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 8 [Sat May 25 22:22:45 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 5 [Sat May 25 22:22:45 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 6 [Sat May 25 22:22:45 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 2 [Sat May 25 22:22:45 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 4 [Sat May 25 22:22:45 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 7 [Sat May 25 22:22:45 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 3 [Sat May 25 22:22:45 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 10 [Sat May 25 22:22:45 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 0 [Sat May 25 22:22:45 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+_pmiu_daemon(SIGCHLD): [NID 02805] [c6-1c1s13n1] [Sat May 25 22:22:45 2019] PE RANK 1 exit signal Aborted
+[NID 02805] 2019-05-25 22:22:45 Apid 36017128: initiated application termination
+
+real	0m4.691s
+user	0m0.464s
+sys	0m0.136s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 16 processes
+Started at Sat May 25 22:22:46 BST 2019
+--------------------------------------------------------------------------------
+Rank 3 [Sat May 25 22:22:50 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 14 [Sat May 25 22:22:50 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 12 [Sat May 25 22:22:50 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 13 [Sat May 25 22:22:50 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 15 [Sat May 25 22:22:50 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 1 [Sat May 25 22:22:50 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 6 [Sat May 25 22:22:50 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 8 [Sat May 25 22:22:50 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 11 [Sat May 25 22:22:50 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 7 [Sat May 25 22:22:50 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 10 [Sat May 25 22:22:50 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 9 [Sat May 25 22:22:50 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 2 [Sat May 25 22:22:50 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 4 [Sat May 25 22:22:50 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 5 [Sat May 25 22:22:50 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 0 [Sat May 25 22:22:50 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+_pmiu_daemon(SIGCHLD): [NID 02805] [c6-1c1s13n1] [Sat May 25 22:22:50 2019] PE RANK 3 exit signal Aborted
+[NID 02805] 2019-05-25 22:22:50 Apid 36017130: initiated application termination
+
+real	0m5.274s
+user	0m0.476s
+sys	0m0.124s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 24 processes
+Started at Sat May 25 22:22:51 BST 2019
+--------------------------------------------------------------------------------
+Rank 17 [Sat May 25 22:22:55 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 16 [Sat May 25 22:22:55 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 19 [Sat May 25 22:22:55 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 10 [Sat May 25 22:22:55 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 8 [Sat May 25 22:22:55 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 6 [Sat May 25 22:22:55 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 1 [Sat May 25 22:22:55 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 5 [Sat May 25 22:22:55 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 4 [Sat May 25 22:22:55 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 3 [Sat May 25 22:22:55 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 9 [Sat May 25 22:22:55 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 20 [Sat May 25 22:22:55 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 0 [Sat May 25 22:22:55 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 21 [Sat May 25 22:22:55 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 23 [Sat May 25 22:22:55 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 13 [Sat May 25 22:22:55 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 14 [Sat May 25 22:22:55 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 11 [Sat May 25 22:22:55 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 7 [Sat May 25 22:22:55 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 2 [Sat May 25 22:22:55 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 12 [Sat May 25 22:22:55 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 15 [Sat May 25 22:22:55 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 18 [Sat May 25 22:22:55 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 22 [Sat May 25 22:22:55 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+_pmiu_daemon(SIGCHLD): [NID 02805] [c6-1c1s13n1] [Sat May 25 22:22:55 2019] PE RANK 16 exit signal Aborted
+[NID 02805] 2019-05-25 22:22:55 Apid 36017132: initiated application termination
+
+real	0m4.812s
+user	0m0.420s
+sys	0m0.176s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 4 processes
+Started at Sat May 25 22:22:56 BST 2019
+--------------------------------------------------------------------------------
+Rank 1 [Sat May 25 22:23:00 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 2 [Sat May 25 22:23:00 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 3 [Sat May 25 22:23:00 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 0 [Sat May 25 22:23:00 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+_pmiu_daemon(SIGCHLD): [NID 02805] [c6-1c1s13n1] [Sat May 25 22:23:00 2019] PE RANK 1 exit signal Aborted
+
+real	0m4.679s
+user	0m0.456s
+sys	0m0.144s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 8 processes
+Started at Sat May 25 22:23:00 BST 2019
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+Resources requested: ncpus=24,place=free,walltime=00:10:00
+Resources allocated: cpupercent=0,cput=00:00:12,mem=9252kb,ncpus=24,vmem=188736kb,walltime=00:01:00
+
+*** bkm1n   Job: 6234460.sdb   ended: 25/05/19 22:23:04   queue: R6210562 ***
+*** bkm1n   Job: 6234460.sdb   ended: 25/05/19 22:23:04   queue: R6210562 ***
+*** bkm1n   Job: 6234460.sdb   ended: 25/05/19 22:23:04   queue: R6210562 ***
+*** bkm1n   Job: 6234460.sdb   ended: 25/05/19 22:23:04   queue: R6210562 ***
+--------------------------------------------------------------------------------

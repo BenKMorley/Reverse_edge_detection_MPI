@@ -1,0 +1,1638 @@
+--------------------------------------------------------------------------------
+*** bkm1n   Job: 6237227.sdb   started: 27/05/19 18:04:24   host: mom3 ***
+*** bkm1n   Job: 6237227.sdb   started: 27/05/19 18:04:24   host: mom3 ***
+*** bkm1n   Job: 6237227.sdb   started: 27/05/19 18:04:24   host: mom3 ***
+*** bkm1n   Job: 6237227.sdb   started: 27/05/19 18:04:24   host: mom3 ***
+
+--------------------------------------------------------------------------------
+/opt/cray/cce/8.5.8/cray-binutils/x86_64-pc-linux-gnu/bin/objcopy:./ex/parallel: File format not recognized
+--------------------------------------------------------------------------------
+Running MPI program parallel on 1 processes
+Started at Mon May 27 18:04:35 BST 2019
+--------------------------------------------------------------------------------
+[NID 04981] 2019-05-27 18:04:40 Apid 36028308: cannot execute: exit(107) exec failed
+
+real	0m5.569s
+user	0m0.376s
+sys	0m0.288s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 2 processes
+Started at Mon May 27 18:04:41 BST 2019
+--------------------------------------------------------------------------------
+[NID 04981] 2019-05-27 18:04:44 Apid 36028309: cannot execute: exit(107) exec failed
+
+real	0m3.796s
+user	0m0.480s
+sys	0m0.156s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 3 processes
+Started at Mon May 27 18:04:44 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.864s
+user	0m0.464s
+sys	0m0.164s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 4 processes
+Started at Mon May 27 18:04:49 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.735s
+user	0m0.448s
+sys	0m0.172s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 6 processes
+Started at Mon May 27 18:04:54 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.709s
+user	0m0.468s
+sys	0m0.144s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 8 processes
+Started at Mon May 27 18:04:59 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.771s
+user	0m0.488s
+sys	0m0.128s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 12 processes
+Started at Mon May 27 18:05:03 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.731s
+user	0m0.468s
+sys	0m0.144s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 16 processes
+Started at Mon May 27 18:05:08 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.721s
+user	0m0.460s
+sys	0m0.148s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 24 processes
+Started at Mon May 27 18:05:13 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.942s
+user	0m0.472s
+sys	0m0.136s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 1 processes
+Started at Mon May 27 18:05:18 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.976s
+user	0m0.456s
+sys	0m0.152s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 2 processes
+Started at Mon May 27 18:05:23 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.824s
+user	0m0.444s
+sys	0m0.124s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 3 processes
+Started at Mon May 27 18:05:28 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.923s
+user	0m0.168s
+sys	0m0.080s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 4 processes
+Started at Mon May 27 18:05:29 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.915s
+user	0m0.164s
+sys	0m0.092s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 6 processes
+Started at Mon May 27 18:05:30 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.917s
+user	0m0.144s
+sys	0m0.112s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 8 processes
+Started at Mon May 27 18:05:31 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.958s
+user	0m0.144s
+sys	0m0.108s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 12 processes
+Started at Mon May 27 18:05:31 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.913s
+user	0m0.156s
+sys	0m0.100s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 16 processes
+Started at Mon May 27 18:05:32 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.923s
+user	0m0.148s
+sys	0m0.116s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 24 processes
+Started at Mon May 27 18:05:33 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.926s
+user	0m0.172s
+sys	0m0.092s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 1 processes
+Started at Mon May 27 18:05:34 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m6.425s
+user	0m0.392s
+sys	0m0.132s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 2 processes
+Started at Mon May 27 18:05:41 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m6.696s
+user	0m0.460s
+sys	0m0.160s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 3 processes
+Started at Mon May 27 18:05:47 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m6.434s
+user	0m0.460s
+sys	0m0.164s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 4 processes
+Started at Mon May 27 18:05:54 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.801s
+user	0m0.448s
+sys	0m0.172s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 6 processes
+Started at Mon May 27 18:06:00 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.457s
+user	0m0.448s
+sys	0m0.176s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 8 processes
+Started at Mon May 27 18:06:05 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.339s
+user	0m0.456s
+sys	0m0.180s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 12 processes
+Started at Mon May 27 18:06:11 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.027s
+user	0m0.480s
+sys	0m0.140s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 16 processes
+Started at Mon May 27 18:06:16 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.167s
+user	0m0.476s
+sys	0m0.140s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 24 processes
+Started at Mon May 27 18:06:21 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.955s
+user	0m0.436s
+sys	0m0.172s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 1 processes
+Started at Mon May 27 18:06:26 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m15.941s
+user	0m0.436s
+sys	0m0.200s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 2 processes
+Started at Mon May 27 18:06:42 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m10.435s
+user	0m0.460s
+sys	0m0.164s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 3 processes
+Started at Mon May 27 18:06:52 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m8.779s
+user	0m0.464s
+sys	0m0.168s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 4 processes
+Started at Mon May 27 18:07:01 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.986s
+user	0m0.208s
+sys	0m0.104s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 6 processes
+Started at Mon May 27 18:07:02 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.917s
+user	0m0.124s
+sys	0m0.132s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 8 processes
+Started at Mon May 27 18:07:03 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.907s
+user	0m0.172s
+sys	0m0.080s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 12 processes
+Started at Mon May 27 18:07:04 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.904s
+user	0m0.144s
+sys	0m0.108s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 16 processes
+Started at Mon May 27 18:07:05 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.910s
+user	0m0.168s
+sys	0m0.080s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 24 processes
+Started at Mon May 27 18:07:06 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.920s
+user	0m0.176s
+sys	0m0.084s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 1 processes
+Started at Mon May 27 18:07:21 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m2.921s
+user	0m0.472s
+sys	0m0.164s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 2 processes
+Started at Mon May 27 18:07:24 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.799s
+user	0m0.460s
+sys	0m0.152s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 3 processes
+Started at Mon May 27 18:07:28 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.810s
+user	0m0.444s
+sys	0m0.180s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 4 processes
+Started at Mon May 27 18:07:33 BST 2019
+--------------------------------------------------------------------------------
+[NID 04981] 2019-05-27 18:07:38 Apid 36028378: cannot execute: exit(107) exec failed
+
+real	0m4.692s
+user	0m0.268s
+sys	0m0.164s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 6 processes
+Started at Mon May 27 18:07:38 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.916s
+user	0m0.160s
+sys	0m0.092s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 8 processes
+Started at Mon May 27 18:07:39 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.914s
+user	0m0.168s
+sys	0m0.088s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 12 processes
+Started at Mon May 27 18:07:40 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.916s
+user	0m0.144s
+sys	0m0.112s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 16 processes
+Started at Mon May 27 18:07:41 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.950s
+user	0m0.160s
+sys	0m0.100s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 24 processes
+Started at Mon May 27 18:07:42 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.914s
+user	0m0.128s
+sys	0m0.128s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 1 processes
+Started at Mon May 27 18:07:43 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.919s
+user	0m0.124s
+sys	0m0.128s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 2 processes
+Started at Mon May 27 18:07:44 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m2.947s
+user	0m0.468s
+sys	0m0.164s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 3 processes
+Started at Mon May 27 18:07:46 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.779s
+user	0m0.440s
+sys	0m0.168s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 4 processes
+Started at Mon May 27 18:07:51 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.782s
+user	0m0.468s
+sys	0m0.140s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 6 processes
+Started at Mon May 27 18:07:56 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.692s
+user	0m0.488s
+sys	0m0.124s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 8 processes
+Started at Mon May 27 18:08:01 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.590s
+user	0m0.436s
+sys	0m0.132s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 12 processes
+Started at Mon May 27 18:08:05 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.911s
+user	0m0.144s
+sys	0m0.104s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 16 processes
+Started at Mon May 27 18:08:06 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.939s
+user	0m0.168s
+sys	0m0.108s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 24 processes
+Started at Mon May 27 18:08:07 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m1.447s
+user	0m0.172s
+sys	0m0.088s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 1 processes
+Started at Mon May 27 18:08:09 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.917s
+user	0m0.168s
+sys	0m0.088s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 2 processes
+Started at Mon May 27 18:08:10 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.899s
+user	0m0.148s
+sys	0m0.100s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 3 processes
+Started at Mon May 27 18:08:10 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.916s
+user	0m0.152s
+sys	0m0.104s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 4 processes
+Started at Mon May 27 18:08:11 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.917s
+user	0m0.176s
+sys	0m0.080s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 6 processes
+Started at Mon May 27 18:08:12 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m3.761s
+user	0m0.488s
+sys	0m0.148s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 8 processes
+Started at Mon May 27 18:08:16 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.284s
+user	0m0.464s
+sys	0m0.160s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 12 processes
+Started at Mon May 27 18:08:21 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.047s
+user	0m0.484s
+sys	0m0.140s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 16 processes
+Started at Mon May 27 18:08:26 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.027s
+user	0m0.436s
+sys	0m0.176s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 24 processes
+Started at Mon May 27 18:08:32 BST 2019
+--------------------------------------------------------------------------------
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+[NID 04981] 2019-05-27 18:08:36 Apid 36028401: cannot execute: exit(107) exec failed
+
+real	0m4.897s
+user	0m0.236s
+sys	0m0.180s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 1 processes
+Started at Mon May 27 18:08:36 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.909s
+user	0m0.140s
+sys	0m0.112s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 2 processes
+Started at Mon May 27 18:08:37 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.919s
+user	0m0.168s
+sys	0m0.084s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 3 processes
+Started at Mon May 27 18:08:38 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.911s
+user	0m0.156s
+sys	0m0.100s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 4 processes
+Started at Mon May 27 18:08:39 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.924s
+user	0m0.164s
+sys	0m0.092s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 6 processes
+Started at Mon May 27 18:08:40 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.918s
+user	0m0.172s
+sys	0m0.084s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 8 processes
+Started at Mon May 27 18:08:41 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.927s
+user	0m0.160s
+sys	0m0.100s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 12 processes
+Started at Mon May 27 18:08:42 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.910s
+user	0m0.156s
+sys	0m0.096s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 16 processes
+Started at Mon May 27 18:08:43 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.919s
+user	0m0.160s
+sys	0m0.096s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 24 processes
+Started at Mon May 27 18:08:44 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.931s
+user	0m0.144s
+sys	0m0.104s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 1 processes
+Started at Mon May 27 18:08:53 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m3.040s
+user	0m0.456s
+sys	0m0.156s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 2 processes
+Started at Mon May 27 18:08:57 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.793s
+user	0m0.436s
+sys	0m0.180s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 3 processes
+Started at Mon May 27 18:09:01 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.751s
+user	0m0.444s
+sys	0m0.192s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 4 processes
+Started at Mon May 27 18:09:06 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.924s
+user	0m0.508s
+sys	0m0.128s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 6 processes
+Started at Mon May 27 18:09:11 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.730s
+user	0m0.468s
+sys	0m0.152s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 8 processes
+Started at Mon May 27 18:09:16 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.849s
+user	0m0.456s
+sys	0m0.156s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 12 processes
+Started at Mon May 27 18:09:21 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.977s
+user	0m0.456s
+sys	0m0.156s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 16 processes
+Started at Mon May 27 18:09:26 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.037s
+user	0m0.472s
+sys	0m0.144s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 24 processes
+Started at Mon May 27 18:09:31 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.092s
+user	0m0.492s
+sys	0m0.120s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 1 processes
+Started at Mon May 27 18:09:36 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.259s
+user	0m0.480s
+sys	0m0.132s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 2 processes
+Started at Mon May 27 18:09:41 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.903s
+user	0m0.472s
+sys	0m0.144s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 3 processes
+Started at Mon May 27 18:09:46 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.784s
+user	0m0.488s
+sys	0m0.124s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 4 processes
+Started at Mon May 27 18:09:51 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.669s
+user	0m0.456s
+sys	0m0.156s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 6 processes
+Started at Mon May 27 18:09:55 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.825s
+user	0m0.460s
+sys	0m0.148s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 8 processes
+Started at Mon May 27 18:10:00 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.637s
+user	0m0.460s
+sys	0m0.152s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 12 processes
+Started at Mon May 27 18:10:05 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.710s
+user	0m0.508s
+sys	0m0.116s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 16 processes
+Started at Mon May 27 18:10:10 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.725s
+user	0m0.452s
+sys	0m0.156s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 24 processes
+Started at Mon May 27 18:10:14 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.745s
+user	0m0.456s
+sys	0m0.156s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 1 processes
+Started at Mon May 27 18:10:19 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m8.415s
+user	0m0.480s
+sys	0m0.144s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 2 processes
+Started at Mon May 27 18:10:28 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m6.576s
+user	0m0.508s
+sys	0m0.140s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 3 processes
+Started at Mon May 27 18:10:34 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m6.052s
+user	0m0.496s
+sys	0m0.136s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 4 processes
+Started at Mon May 27 18:10:40 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.694s
+user	0m0.492s
+sys	0m0.132s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 6 processes
+Started at Mon May 27 18:10:46 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.404s
+user	0m0.488s
+sys	0m0.128s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 8 processes
+Started at Mon May 27 18:10:51 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.334s
+user	0m0.436s
+sys	0m0.184s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 12 processes
+Started at Mon May 27 18:10:57 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.101s
+user	0m0.504s
+sys	0m0.128s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 16 processes
+Started at Mon May 27 18:11:02 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.063s
+user	0m0.504s
+sys	0m0.148s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 24 processes
+Started at Mon May 27 18:11:07 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.940s
+user	0m0.492s
+sys	0m0.152s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 1 processes
+Started at Mon May 27 18:11:12 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m15.915s
+user	0m0.496s
+sys	0m0.144s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 2 processes
+Started at Mon May 27 18:11:28 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m10.503s
+user	0m0.496s
+sys	0m0.128s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 3 processes
+Started at Mon May 27 18:11:38 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m9.354s
+user	0m0.448s
+sys	0m0.176s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 4 processes
+Started at Mon May 27 18:11:48 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m7.882s
+user	0m0.472s
+sys	0m0.152s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 6 processes
+Started at Mon May 27 18:11:56 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m6.968s
+user	0m0.472s
+sys	0m0.148s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 8 processes
+Started at Mon May 27 18:12:02 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m6.503s
+user	0m0.440s
+sys	0m0.180s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 12 processes
+Started at Mon May 27 18:12:09 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.999s
+user	0m0.444s
+sys	0m0.176s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 16 processes
+Started at Mon May 27 18:12:15 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.838s
+user	0m0.452s
+sys	0m0.172s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 24 processes
+Started at Mon May 27 18:12:21 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.462s
+user	0m0.464s
+sys	0m0.148s
+/opt/cray/cce/8.5.8/cray-binutils/x86_64-pc-linux-gnu/bin/objcopy:./ex/parallel: File format not recognized
+--------------------------------------------------------------------------------
+Running MPI program parallel on 1 processes
+Started at Mon May 27 18:12:35 BST 2019
+--------------------------------------------------------------------------------
+[NID 04981] 2019-05-27 18:12:40 Apid 36028457: cannot execute: exit(107) exec failed
+
+real	0m5.355s
+user	0m0.392s
+sys	0m0.288s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 2 processes
+Started at Mon May 27 18:12:41 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.103s
+user	0m0.452s
+sys	0m0.192s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 3 processes
+Started at Mon May 27 18:12:45 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.712s
+user	0m0.456s
+sys	0m0.160s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 4 processes
+Started at Mon May 27 18:12:50 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.678s
+user	0m0.432s
+sys	0m0.180s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 6 processes
+Started at Mon May 27 18:12:54 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.704s
+user	0m0.456s
+sys	0m0.156s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 8 processes
+Started at Mon May 27 18:12:59 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.760s
+user	0m0.428s
+sys	0m0.188s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 12 processes
+Started at Mon May 27 18:13:04 BST 2019
+--------------------------------------------------------------------------------
+[NID 04981] 2019-05-27 18:13:08 Apid 36028468: cannot execute: exit(107) exec failed
+
+real	0m4.761s
+user	0m0.284s
+sys	0m0.136s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 16 processes
+Started at Mon May 27 18:13:08 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.907s
+user	0m0.144s
+sys	0m0.104s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 24 processes
+Started at Mon May 27 18:13:09 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.931s
+user	0m0.152s
+sys	0m0.108s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 1 processes
+Started at Mon May 27 18:13:10 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.925s
+user	0m0.136s
+sys	0m0.124s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 2 processes
+Started at Mon May 27 18:13:11 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.904s
+user	0m0.152s
+sys	0m0.096s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 3 processes
+Started at Mon May 27 18:13:12 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.914s
+user	0m0.144s
+sys	0m0.112s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 4 processes
+Started at Mon May 27 18:13:13 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.911s
+user	0m0.128s
+sys	0m0.128s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 6 processes
+Started at Mon May 27 18:13:14 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.917s
+user	0m0.132s
+sys	0m0.124s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 8 processes
+Started at Mon May 27 18:13:15 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.919s
+user	0m0.168s
+sys	0m0.088s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 12 processes
+Started at Mon May 27 18:13:16 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.945s
+user	0m0.152s
+sys	0m0.104s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 16 processes
+Started at Mon May 27 18:13:17 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.909s
+user	0m0.144s
+sys	0m0.112s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 24 processes
+Started at Mon May 27 18:13:18 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.910s
+user	0m0.136s
+sys	0m0.120s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 1 processes
+Started at Mon May 27 18:13:19 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.921s
+user	0m0.160s
+sys	0m0.096s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 2 processes
+Started at Mon May 27 18:13:20 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.907s
+user	0m0.144s
+sys	0m0.112s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 3 processes
+Started at Mon May 27 18:13:21 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.917s
+user	0m0.176s
+sys	0m0.080s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 4 processes
+Started at Mon May 27 18:13:21 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.911s
+user	0m0.144s
+sys	0m0.112s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 6 processes
+Started at Mon May 27 18:13:22 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.918s
+user	0m0.172s
+sys	0m0.084s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 8 processes
+Started at Mon May 27 18:13:23 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.919s
+user	0m0.140s
+sys	0m0.116s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 12 processes
+Started at Mon May 27 18:13:24 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.909s
+user	0m0.196s
+sys	0m0.060s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 16 processes
+Started at Mon May 27 18:13:25 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.911s
+user	0m0.164s
+sys	0m0.088s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 24 processes
+Started at Mon May 27 18:13:26 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.926s
+user	0m0.172s
+sys	0m0.084s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 1 processes
+Started at Mon May 27 18:13:27 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.908s
+user	0m0.136s
+sys	0m0.116s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 2 processes
+Started at Mon May 27 18:13:28 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.914s
+user	0m0.148s
+sys	0m0.108s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 3 processes
+Started at Mon May 27 18:13:29 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.916s
+user	0m0.180s
+sys	0m0.076s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 4 processes
+Started at Mon May 27 18:13:30 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.908s
+user	0m0.148s
+sys	0m0.108s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 6 processes
+Started at Mon May 27 18:13:31 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.915s
+user	0m0.156s
+sys	0m0.100s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 8 processes
+Started at Mon May 27 18:13:32 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.913s
+user	0m0.128s
+sys	0m0.128s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 12 processes
+Started at Mon May 27 18:13:33 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.915s
+user	0m0.156s
+sys	0m0.100s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 16 processes
+Started at Mon May 27 18:13:33 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m3.973s
+user	0m0.472s
+sys	0m0.172s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 24 processes
+Started at Mon May 27 18:13:37 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.406s
+user	0m0.484s
+sys	0m0.140s
+/opt/cray/cce/8.5.8/cray-binutils/x86_64-pc-linux-gnu/bin/objcopy:./ex/parallel: File format not recognized
+--------------------------------------------------------------------------------
+Running MPI program parallel on 1 processes
+Started at Mon May 27 18:13:52 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.162s
+user	0m0.432s
+sys	0m0.212s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 2 processes
+Started at Mon May 27 18:13:57 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.969s
+user	0m0.476s
+sys	0m0.140s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 3 processes
+Started at Mon May 27 18:14:01 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.736s
+user	0m0.480s
+sys	0m0.140s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 4 processes
+Started at Mon May 27 18:14:06 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.762s
+user	0m0.472s
+sys	0m0.144s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 6 processes
+Started at Mon May 27 18:14:11 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.742s
+user	0m0.420s
+sys	0m0.204s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 8 processes
+Started at Mon May 27 18:14:16 BST 2019
+--------------------------------------------------------------------------------
+[NID 04981] 2019-05-27 18:14:20 Apid 36028486: cannot execute: exit(107) exec failed
+
+real	0m5.086s
+user	0m0.308s
+sys	0m0.148s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 12 processes
+Started at Mon May 27 18:14:21 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.912s
+user	0m0.168s
+sys	0m0.088s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 16 processes
+Started at Mon May 27 18:14:22 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.913s
+user	0m0.152s
+sys	0m0.104s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 24 processes
+Started at Mon May 27 18:14:23 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.923s
+user	0m0.164s
+sys	0m0.096s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 1 processes
+Started at Mon May 27 18:14:24 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.956s
+user	0m0.156s
+sys	0m0.100s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 2 processes
+Started at Mon May 27 18:14:25 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.913s
+user	0m0.124s
+sys	0m0.132s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 3 processes
+Started at Mon May 27 18:14:26 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m2.966s
+user	0m0.464s
+sys	0m0.164s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 4 processes
+Started at Mon May 27 18:14:28 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.799s
+user	0m0.448s
+sys	0m0.168s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 6 processes
+Started at Mon May 27 18:14:33 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.836s
+user	0m0.440s
+sys	0m0.172s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 8 processes
+Started at Mon May 27 18:14:38 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.007s
+user	0m0.472s
+sys	0m0.140s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 12 processes
+Started at Mon May 27 18:14:43 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.665s
+user	0m0.468s
+sys	0m0.136s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 16 processes
+Started at Mon May 27 18:14:48 BST 2019
+--------------------------------------------------------------------------------
+[NID 04981] 2019-05-27 18:14:53 Apid 36028498: cannot execute: exit(107) exec failed
+
+real	0m5.424s
+user	0m0.292s
+sys	0m0.180s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 24 processes
+Started at Mon May 27 18:14:53 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.967s
+user	0m0.172s
+sys	0m0.120s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 1 processes
+Started at Mon May 27 18:14:54 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.920s
+user	0m0.156s
+sys	0m0.104s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 2 processes
+Started at Mon May 27 18:14:55 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.915s
+user	0m0.176s
+sys	0m0.076s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 3 processes
+Started at Mon May 27 18:14:56 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.915s
+user	0m0.160s
+sys	0m0.096s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 4 processes
+Started at Mon May 27 18:14:57 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.908s
+user	0m0.168s
+sys	0m0.084s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 6 processes
+Started at Mon May 27 18:14:58 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m3.435s
+user	0m0.388s
+sys	0m0.152s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 8 processes
+Started at Mon May 27 18:15:01 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.271s
+user	0m0.480s
+sys	0m0.156s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 12 processes
+Started at Mon May 27 18:15:07 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.230s
+user	0m0.452s
+sys	0m0.176s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 16 processes
+Started at Mon May 27 18:15:12 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.084s
+user	0m0.480s
+sys	0m0.164s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 24 processes
+Started at Mon May 27 18:15:17 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.977s
+user	0m0.484s
+sys	0m0.148s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 1 processes
+Started at Mon May 27 18:15:22 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m15.933s
+user	0m0.452s
+sys	0m0.168s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 2 processes
+Started at Mon May 27 18:15:38 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m10.490s
+user	0m0.444s
+sys	0m0.212s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 3 processes
+Started at Mon May 27 18:15:48 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m8.857s
+user	0m0.452s
+sys	0m0.172s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 4 processes
+Started at Mon May 27 18:15:57 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m7.979s
+user	0m0.472s
+sys	0m0.144s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 6 processes
+Started at Mon May 27 18:16:05 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m7.073s
+user	0m0.468s
+sys	0m0.168s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 8 processes
+Started at Mon May 27 18:16:12 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m6.593s
+user	0m0.460s
+sys	0m0.168s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 12 processes
+Started at Mon May 27 18:16:19 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.971s
+user	0m0.480s
+sys	0m0.148s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 16 processes
+Started at Mon May 27 18:16:25 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.652s
+user	0m0.436s
+sys	0m0.176s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 24 processes
+Started at Mon May 27 18:16:31 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.392s
+user	0m0.436s
+sys	0m0.188s
+--------------------------------------------------------------------------------
+Finished at Mon May 27 18:16:36 BST 2019
+--------------------------------------------------------------------------------
+
+Resources requested: ncpus=24,place=free,walltime=00:30:00
+Resources allocated: cpupercent=15,cput=00:01:55,mem=19240kb,ncpus=24,vmem=319988kb,walltime=00:12:12
+
+*** bkm1n   Job: 6237227.sdb   ended: 27/05/19 18:16:36   queue: standard ***
+*** bkm1n   Job: 6237227.sdb   ended: 27/05/19 18:16:36   queue: standard ***
+*** bkm1n   Job: 6237227.sdb   ended: 27/05/19 18:16:36   queue: standard ***
+*** bkm1n   Job: 6237227.sdb   ended: 27/05/19 18:16:36   queue: standard ***
+--------------------------------------------------------------------------------

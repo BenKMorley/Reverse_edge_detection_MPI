@@ -1,0 +1,426 @@
+--------------------------------------------------------------------------------
+*** bkm1n   Job: 6234450.sdb   started: 25/05/19 22:06:07   host: mom5 ***
+*** bkm1n   Job: 6234450.sdb   started: 25/05/19 22:06:07   host: mom5 ***
+*** bkm1n   Job: 6234450.sdb   started: 25/05/19 22:06:07   host: mom5 ***
+*** bkm1n   Job: 6234450.sdb   started: 25/05/19 22:06:07   host: mom5 ***
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Running MPI program parallel on 1 processes
+Started at Sat May 25 22:06:16 BST 2019
+--------------------------------------------------------------------------------
+pgmsize: cannot open <./im/edge192x128.pgm>
+
+real	0m2.663s
+user	0m0.472s
+sys	0m0.164s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 2 processes
+Started at Sat May 25 22:06:19 BST 2019
+--------------------------------------------------------------------------------
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+
+real	0m4.708s
+user	0m0.484s
+sys	0m0.144s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 3 processes
+Started at Sat May 25 22:06:24 BST 2019
+--------------------------------------------------------------------------------
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+
+real	0m4.678s
+user	0m0.464s
+sys	0m0.172s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 4 processes
+Started at Sat May 25 22:06:28 BST 2019
+--------------------------------------------------------------------------------
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+
+real	0m4.676s
+user	0m0.492s
+sys	0m0.132s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 6 processes
+Started at Sat May 25 22:06:33 BST 2019
+--------------------------------------------------------------------------------
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+
+real	0m4.716s
+user	0m0.460s
+sys	0m0.168s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 8 processes
+Started at Sat May 25 22:06:38 BST 2019
+--------------------------------------------------------------------------------
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+
+real	0m4.699s
+user	0m0.452s
+sys	0m0.168s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 12 processes
+Started at Sat May 25 22:06:43 BST 2019
+--------------------------------------------------------------------------------
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+[NID 02805] 2019-05-25 22:06:47 Apid 36016874: initiated application termination
+
+real	0m5.121s
+user	0m0.448s
+sys	0m0.200s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 16 processes
+Started at Sat May 25 22:06:48 BST 2019
+--------------------------------------------------------------------------------
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+[NID 02805] 2019-05-25 22:06:52 Apid 36016876: initiated application termination
+
+real	0m4.750s
+user	0m0.440s
+sys	0m0.176s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 24 processes
+Started at Sat May 25 22:06:52 BST 2019
+--------------------------------------------------------------------------------
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+[NID 02805] 2019-05-25 22:06:57 Apid 36016878: initiated application termination
+
+real	0m4.809s
+user	0m0.464s
+sys	0m0.168s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 4 processes
+Started at Sat May 25 22:06:57 BST 2019
+--------------------------------------------------------------------------------
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+
+real	0m5.439s
+user	0m0.472s
+sys	0m0.172s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 8 processes
+Started at Sat May 25 22:07:03 BST 2019
+--------------------------------------------------------------------------------
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+
+real	0m4.689s
+user	0m0.480s
+sys	0m0.152s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 16 processes
+Started at Sat May 25 22:07:07 BST 2019
+--------------------------------------------------------------------------------
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+pgmsize: cannot open <./im/edge192x128.pgm>
+
+real	0m4.712s
+user	0m0.444s
+sys	0m0.192s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 1 processes
+Started at Sat May 25 22:07:12 BST 2019
+--------------------------------------------------------------------------------
+pgmsize: cannot open <./im/edge256x192.pgm>
+
+real	0m4.717s
+user	0m0.472s
+sys	0m0.144s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 2 processes
+Started at Sat May 25 22:07:17 BST 2019
+--------------------------------------------------------------------------------
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+
+real	0m4.678s
+user	0m0.480s
+sys	0m0.148s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 3 processes
+Started at Sat May 25 22:07:21 BST 2019
+--------------------------------------------------------------------------------
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+
+real	0m4.768s
+user	0m0.460s
+sys	0m0.176s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 4 processes
+Started at Sat May 25 22:07:26 BST 2019
+--------------------------------------------------------------------------------
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+
+real	0m4.728s
+user	0m0.464s
+sys	0m0.172s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 6 processes
+Started at Sat May 25 22:07:31 BST 2019
+--------------------------------------------------------------------------------
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+[NID 02805] 2019-05-25 22:07:35 Apid 36016892: initiated application termination
+
+real	0m4.770s
+user	0m0.448s
+sys	0m0.168s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 8 processes
+Started at Sat May 25 22:07:36 BST 2019
+--------------------------------------------------------------------------------
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+
+real	0m4.695s
+user	0m0.452s
+sys	0m0.176s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 12 processes
+Started at Sat May 25 22:07:40 BST 2019
+--------------------------------------------------------------------------------
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+[NID 02805] 2019-05-25 22:07:45 Apid 36016896: initiated application termination
+
+real	0m4.641s
+user	0m0.456s
+sys	0m0.176s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 16 processes
+Started at Sat May 25 22:07:45 BST 2019
+--------------------------------------------------------------------------------
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+[NID 02805] 2019-05-25 22:07:49 Apid 36016899: initiated application termination
+
+real	0m4.661s
+user	0m0.440s
+sys	0m0.180s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 24 processes
+Started at Sat May 25 22:07:50 BST 2019
+--------------------------------------------------------------------------------
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+
+real	0m4.727s
+user	0m0.460s
+sys	0m0.164s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 4 processes
+Started at Sat May 25 22:07:55 BST 2019
+--------------------------------------------------------------------------------
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+[NID 02805] 2019-05-25 22:07:59 Apid 36016902: initiated application termination
+
+real	0m4.714s
+user	0m0.460s
+sys	0m0.172s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 8 processes
+Started at Sat May 25 22:07:59 BST 2019
+--------------------------------------------------------------------------------
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+
+real	0m4.867s
+user	0m0.444s
+sys	0m0.184s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 16 processes
+Started at Sat May 25 22:08:04 BST 2019
+--------------------------------------------------------------------------------
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+pgmsize: cannot open <./im/edge256x192.pgm>
+[NID 02805] 2019-05-25 22:08:08 Apid 36016907: initiated application termination
+
+real	0m4.661s
+user	0m0.448s
+sys	0m0.172s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 1 processes
+Started at Sat May 25 22:08:09 BST 2019
+--------------------------------------------------------------------------------
+pgmsize: cannot open <./im/edge512x384.pgm>
+close failed in file object destructor:
+Error in sys.excepthook:
+
+Original exception was:
+--------------------------------------------------------------------------------
+
+Resources requested: ncpus=24,place=free,walltime=00:10:00
+Resources allocated: cpupercent=11,cput=00:00:21,mem=9264kb,ncpus=24,vmem=188748kb,walltime=00:02:08
+
+*** bkm1n   Job: 6234450.sdb   ended: 25/05/19 22:08:13   queue: R6210562 ***
+*** bkm1n   Job: 6234450.sdb   ended: 25/05/19 22:08:13   queue: R6210562 ***
+*** bkm1n   Job: 6234450.sdb   ended: 25/05/19 22:08:13   queue: R6210562 ***
+*** bkm1n   Job: 6234450.sdb   ended: 25/05/19 22:08:13   queue: R6210562 ***
+--------------------------------------------------------------------------------

@@ -1,0 +1,34 @@
+--------------------------------------------------------------------------------
+*** bkm1n   Job: 6234421.sdb   started: 25/05/19 21:47:25   host: mom5 ***
+*** bkm1n   Job: 6234421.sdb   started: 25/05/19 21:47:25   host: mom5 ***
+*** bkm1n   Job: 6234421.sdb   started: 25/05/19 21:47:25   host: mom5 ***
+*** bkm1n   Job: 6234421.sdb   started: 25/05/19 21:47:25   host: mom5 ***
+
+--------------------------------------------------------------------------------
+CC-20 craycc: ERROR File = ./c/parallel.c, Line = 73
+  The identifier "dims" is undefined.
+    MPI_Cart_create(MPI_COMM_WORLD, 2, dims, periods, 1, &cart_comm);
+                                       ^
+
+CC-20 craycc: ERROR File = ./c/parallel.c, Line = 85
+  The identifier "jdim" is undefined.
+    int jsize = nj / jdim;
+                     ^
+
+CC-20 craycc: ERROR File = ./c/parallel.c, Line = 86
+  The identifier "idim" is undefined.
+    int isize = ni / idim;
+                     ^
+
+Total errors detected in ./c/parallel.c: 3
+/var/spool/PBS/mom_priv/jobs/6234421.sdb.SC: line 82: syntax error: unexpected end of file
+--------------------------------------------------------------------------------
+
+Resources requested: ncpus=24,place=free,walltime=00:10:00
+Resources allocated: cpupercent=0,cput=00:00:00,mem=0kb,ncpus=24,vmem=0kb,walltime=00:00:02
+
+*** bkm1n   Job: 6234421.sdb   ended: 25/05/19 21:47:26   queue: standard ***
+*** bkm1n   Job: 6234421.sdb   ended: 25/05/19 21:47:26   queue: standard ***
+*** bkm1n   Job: 6234421.sdb   ended: 25/05/19 21:47:26   queue: standard ***
+*** bkm1n   Job: 6234421.sdb   ended: 25/05/19 21:47:26   queue: standard ***
+--------------------------------------------------------------------------------

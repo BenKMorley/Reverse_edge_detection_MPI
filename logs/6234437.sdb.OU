@@ -1,0 +1,25 @@
+--------------------------------------------------------------------------------
+*** bkm1n   Job: 6234437.sdb   started: 25/05/19 21:59:01   host: mom5 ***
+*** bkm1n   Job: 6234437.sdb   started: 25/05/19 21:59:01   host: mom5 ***
+*** bkm1n   Job: 6234437.sdb   started: 25/05/19 21:59:01   host: mom5 ***
+*** bkm1n   Job: 6234437.sdb   started: 25/05/19 21:59:01   host: mom5 ***
+
+--------------------------------------------------------------------------------
+CC-1162 craycc: WARNING File = ./c/parallel.c, Line = 44
+  The excess initializers have been ignored.
+    const int *dims = {0, 0};
+                          ^
+
+Cray C : Version 8.5.8 (20170217211354_0071b093c0867e302a5c08403fe34f8aa78fc212)
+Total warnings detected in ./c/parallel.c: 1
+/var/spool/PBS/mom_priv/jobs/6234437.sdb.SC: line 82: syntax error: unexpected end of file
+--------------------------------------------------------------------------------
+
+Resources requested: ncpus=24,place=free,walltime=00:10:00
+Resources allocated: cpupercent=0,cput=00:00:06,mem=18736kb,ncpus=24,vmem=75260kb,walltime=00:00:11
+
+*** bkm1n   Job: 6234437.sdb   ended: 25/05/19 21:59:12   queue: standard ***
+*** bkm1n   Job: 6234437.sdb   ended: 25/05/19 21:59:12   queue: standard ***
+*** bkm1n   Job: 6234437.sdb   ended: 25/05/19 21:59:12   queue: standard ***
+*** bkm1n   Job: 6234437.sdb   ended: 25/05/19 21:59:12   queue: standard ***
+--------------------------------------------------------------------------------

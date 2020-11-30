@@ -1,0 +1,205 @@
+--------------------------------------------------------------------------------
+*** bkm1n   Job: 6237225.sdb   started: 27/05/19 18:06:31   host: mom2 ***
+*** bkm1n   Job: 6237225.sdb   started: 27/05/19 18:06:31   host: mom2 ***
+*** bkm1n   Job: 6237225.sdb   started: 27/05/19 18:06:31   host: mom2 ***
+*** bkm1n   Job: 6237225.sdb   started: 27/05/19 18:06:31   host: mom2 ***
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Running MPI program parallel on 64 processes
+Started at Mon May 27 18:06:41 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m3.308s
+user	0m0.504s
+sys	0m0.120s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 64 processes
+Started at Mon May 27 18:06:44 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.194s
+user	0m0.452s
+sys	0m0.148s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 64 processes
+Started at Mon May 27 18:06:50 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.471s
+user	0m0.460s
+sys	0m0.148s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 64 processes
+Started at Mon May 27 18:06:55 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.741s
+user	0m0.468s
+sys	0m0.148s
+/opt/cray/cce/8.5.8/cray-binutils/x86_64-pc-linux-gnu/bin/objcopy:./ex/parallel: File format not recognized
+--------------------------------------------------------------------------------
+Running MPI program parallel on 64 processes
+Started at Mon May 27 18:07:12 BST 2019
+--------------------------------------------------------------------------------
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+[NID 01273] 2019-05-27 18:07:17 Apid 36028369: cannot execute: exit(107) exec failed
+
+real	0m5.409s
+user	0m0.436s
+sys	0m0.236s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 64 processes
+Started at Mon May 27 18:07:18 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.320s
+user	0m0.468s
+sys	0m0.156s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 64 processes
+Started at Mon May 27 18:07:23 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.470s
+user	0m0.444s
+sys	0m0.172s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 64 processes
+Started at Mon May 27 18:07:29 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.848s
+user	0m0.460s
+sys	0m0.172s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 64 processes
+Started at Mon May 27 18:07:44 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m3.201s
+user	0m0.464s
+sys	0m0.160s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 64 processes
+Started at Mon May 27 18:07:48 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.226s
+user	0m0.492s
+sys	0m0.112s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 64 processes
+Started at Mon May 27 18:07:53 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.419s
+user	0m0.484s
+sys	0m0.132s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 64 processes
+Started at Mon May 27 18:07:58 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.667s
+user	0m0.468s
+sys	0m0.148s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 64 processes
+Started at Mon May 27 18:08:13 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m3.322s
+user	0m0.428s
+sys	0m0.192s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 64 processes
+Started at Mon May 27 18:08:17 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.223s
+user	0m0.476s
+sys	0m0.128s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 64 processes
+Started at Mon May 27 18:08:22 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.643s
+user	0m0.468s
+sys	0m0.168s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 64 processes
+Started at Mon May 27 18:08:28 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.741s
+user	0m0.484s
+sys	0m0.136s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 64 processes
+Started at Mon May 27 18:09:05 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m3.253s
+user	0m0.488s
+sys	0m0.160s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 64 processes
+Started at Mon May 27 18:09:08 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.462s
+user	0m0.484s
+sys	0m0.136s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 64 processes
+Started at Mon May 27 18:09:13 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.521s
+user	0m0.448s
+sys	0m0.172s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 64 processes
+Started at Mon May 27 18:09:19 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m6.220s
+user	0m0.464s
+sys	0m0.168s
+--------------------------------------------------------------------------------
+Finished at Mon May 27 18:09:25 BST 2019
+--------------------------------------------------------------------------------
+
+Resources requested: ncpus=72,place=free,walltime=00:10:00
+Resources allocated: cpupercent=22,cput=00:00:47,mem=129568kb,ncpus=72,vmem=237816kb,walltime=00:02:54
+
+*** bkm1n   Job: 6237225.sdb   ended: 27/05/19 18:09:25   queue: R6228589 ***
+*** bkm1n   Job: 6237225.sdb   ended: 27/05/19 18:09:25   queue: R6228589 ***
+*** bkm1n   Job: 6237225.sdb   ended: 27/05/19 18:09:25   queue: R6228589 ***
+*** bkm1n   Job: 6237225.sdb   ended: 27/05/19 18:09:25   queue: R6228589 ***
+--------------------------------------------------------------------------------

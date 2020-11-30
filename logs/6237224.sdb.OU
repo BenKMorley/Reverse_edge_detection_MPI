@@ -1,0 +1,370 @@
+--------------------------------------------------------------------------------
+*** bkm1n   Job: 6237224.sdb   started: 27/05/19 18:02:15   host: mom1 ***
+*** bkm1n   Job: 6237224.sdb   started: 27/05/19 18:02:15   host: mom1 ***
+*** bkm1n   Job: 6237224.sdb   started: 27/05/19 18:02:15   host: mom1 ***
+*** bkm1n   Job: 6237224.sdb   started: 27/05/19 18:02:15   host: mom1 ***
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Running MPI program parallel on 32 processes
+Started at Mon May 27 18:02:25 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m3.342s
+user	0m0.452s
+sys	0m0.176s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 48 processes
+Started at Mon May 27 18:02:28 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.168s
+user	0m0.440s
+sys	0m0.192s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 32 processes
+Started at Mon May 27 18:02:33 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.155s
+user	0m0.472s
+sys	0m0.152s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 48 processes
+Started at Mon May 27 18:02:38 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.104s
+user	0m0.456s
+sys	0m0.172s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 32 processes
+Started at Mon May 27 18:02:43 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.412s
+user	0m0.420s
+sys	0m0.208s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 48 processes
+Started at Mon May 27 18:02:49 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.432s
+user	0m0.440s
+sys	0m0.204s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 32 processes
+Started at Mon May 27 18:02:54 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.994s
+user	0m0.488s
+sys	0m0.152s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 48 processes
+Started at Mon May 27 18:03:00 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.717s
+user	0m0.496s
+sys	0m0.152s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 32 processes
+Started at Mon May 27 18:03:14 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m3.169s
+user	0m0.472s
+sys	0m0.168s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 48 processes
+Started at Mon May 27 18:03:18 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.160s
+user	0m0.456s
+sys	0m0.180s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 32 processes
+Started at Mon May 27 18:03:23 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.782s
+user	0m0.464s
+sys	0m0.176s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 48 processes
+Started at Mon May 27 18:03:29 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.187s
+user	0m0.456s
+sys	0m0.168s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 32 processes
+Started at Mon May 27 18:03:34 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.436s
+user	0m0.468s
+sys	0m0.172s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 48 processes
+Started at Mon May 27 18:03:39 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.453s
+user	0m0.476s
+sys	0m0.164s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 32 processes
+Started at Mon May 27 18:03:45 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.736s
+user	0m0.456s
+sys	0m0.188s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 48 processes
+Started at Mon May 27 18:03:50 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.728s
+user	0m0.500s
+sys	0m0.148s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 32 processes
+Started at Mon May 27 18:04:05 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m3.259s
+user	0m0.468s
+sys	0m0.164s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 48 processes
+Started at Mon May 27 18:04:08 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.215s
+user	0m0.468s
+sys	0m0.172s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 32 processes
+Started at Mon May 27 18:04:13 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.229s
+user	0m0.440s
+sys	0m0.196s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 48 processes
+Started at Mon May 27 18:04:18 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.311s
+user	0m0.464s
+sys	0m0.156s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 32 processes
+Started at Mon May 27 18:04:24 BST 2019
+--------------------------------------------------------------------------------
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+execve error: Exec format error
+[NID 01276] 2019-05-27 18:04:29 Apid 36028303: cannot execute: exit(107) exec failed
+
+real	0m5.108s
+user	0m0.324s
+sys	0m0.132s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 48 processes
+Started at Mon May 27 18:04:29 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.931s
+user	0m0.164s
+sys	0m0.108s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 32 processes
+Started at Mon May 27 18:04:30 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.923s
+user	0m0.132s
+sys	0m0.140s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 48 processes
+Started at Mon May 27 18:04:31 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel needs to be readable and executable
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.927s
+user	0m0.132s
+sys	0m0.140s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 32 processes
+Started at Mon May 27 18:04:45 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m3.226s
+user	0m0.464s
+sys	0m0.168s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 48 processes
+Started at Mon May 27 18:04:48 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.211s
+user	0m0.456s
+sys	0m0.172s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 32 processes
+Started at Mon May 27 18:04:53 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.078s
+user	0m0.452s
+sys	0m0.180s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 48 processes
+Started at Mon May 27 18:04:58 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.060s
+user	0m0.468s
+sys	0m0.180s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 32 processes
+Started at Mon May 27 18:05:03 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.441s
+user	0m0.488s
+sys	0m0.168s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 48 processes
+Started at Mon May 27 18:05:09 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.496s
+user	0m0.492s
+sys	0m0.148s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 32 processes
+Started at Mon May 27 18:05:14 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m6.943s
+user	0m0.432s
+sys	0m0.204s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 48 processes
+Started at Mon May 27 18:05:21 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.627s
+user	0m0.436s
+sys	0m0.204s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 32 processes
+Started at Mon May 27 18:05:35 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m3.350s
+user	0m0.440s
+sys	0m0.200s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 48 processes
+Started at Mon May 27 18:05:39 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.111s
+user	0m0.472s
+sys	0m0.160s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 32 processes
+Started at Mon May 27 18:05:44 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.231s
+user	0m0.448s
+sys	0m0.188s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 48 processes
+Started at Mon May 27 18:05:49 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.174s
+user	0m0.484s
+sys	0m0.156s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 32 processes
+Started at Mon May 27 18:05:54 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.378s
+user	0m0.480s
+sys	0m0.164s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 48 processes
+Started at Mon May 27 18:06:00 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.307s
+user	0m0.452s
+sys	0m0.188s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 32 processes
+Started at Mon May 27 18:06:05 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.979s
+user	0m0.488s
+sys	0m0.176s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 48 processes
+Started at Mon May 27 18:06:11 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.748s
+user	0m0.464s
+sys	0m0.172s
+--------------------------------------------------------------------------------
+Finished at Mon May 27 18:06:17 BST 2019
+--------------------------------------------------------------------------------
+
+Resources requested: ncpus=48,place=free,walltime=00:15:00
+Resources allocated: cpupercent=25,cput=00:00:54,mem=129296kb,ncpus=48,vmem=237004kb,walltime=00:04:03
+
+*** bkm1n   Job: 6237224.sdb   ended: 27/05/19 18:06:17   queue: R6228589 ***
+*** bkm1n   Job: 6237224.sdb   ended: 27/05/19 18:06:17   queue: R6228589 ***
+*** bkm1n   Job: 6237224.sdb   ended: 27/05/19 18:06:17   queue: R6228589 ***
+*** bkm1n   Job: 6237224.sdb   ended: 27/05/19 18:06:17   queue: R6228589 ***
+--------------------------------------------------------------------------------

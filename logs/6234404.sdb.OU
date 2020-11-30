@@ -1,0 +1,367 @@
+--------------------------------------------------------------------------------
+*** bkm1n   Job: 6234404.sdb   started: 25/05/19 21:24:15   host: mom4 ***
+*** bkm1n   Job: 6234404.sdb   started: 25/05/19 21:24:15   host: mom4 ***
+*** bkm1n   Job: 6234404.sdb   started: 25/05/19 21:24:15   host: mom4 ***
+*** bkm1n   Job: 6234404.sdb   started: 25/05/19 21:24:15   host: mom4 ***
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Running MPI program parallel on 1 processes
+Started at Sat May 25 21:24:25 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m3.128s
+user	0m0.464s
+sys	0m0.120s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 2 processes
+Started at Sat May 25 21:24:28 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.071s
+user	0m0.464s
+sys	0m0.124s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 3 processes
+Started at Sat May 25 21:24:33 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.919s
+user	0m0.468s
+sys	0m0.124s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 4 processes
+Started at Sat May 25 21:24:38 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.856s
+user	0m0.476s
+sys	0m0.132s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 6 processes
+Started at Sat May 25 21:24:43 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.810s
+user	0m0.444s
+sys	0m0.140s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 8 processes
+Started at Sat May 25 21:24:47 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.073s
+user	0m0.480s
+sys	0m0.096s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 12 processes
+Started at Sat May 25 21:24:52 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.723s
+user	0m0.456s
+sys	0m0.128s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 16 processes
+Started at Sat May 25 21:24:57 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.720s
+user	0m0.444s
+sys	0m0.136s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 24 processes
+Started at Sat May 25 21:25:02 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.859s
+user	0m0.476s
+sys	0m0.116s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 1 processes
+Started at Sat May 25 21:25:07 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.613s
+user	0m0.476s
+sys	0m0.120s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 2 processes
+Started at Sat May 25 21:25:12 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.195s
+user	0m0.496s
+sys	0m0.116s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 3 processes
+Started at Sat May 25 21:25:18 BST 2019
+--------------------------------------------------------------------------------
+Rank 0 [Sat May 25 21:25:22 2019] [c6-1c0s3n2] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 2 [Sat May 25 21:25:22 2019] [c6-1c0s3n2] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 1 [Sat May 25 21:25:22 2019] [c6-1c0s3n2] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+_pmiu_daemon(SIGCHLD): [NID 02702] [c6-1c0s3n2] [Sat May 25 21:25:22 2019] PE RANK 0 exit signal Aborted
+
+real	0m4.660s
+user	0m0.460s
+sys	0m0.136s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 4 processes
+Started at Sat May 25 21:25:22 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.111s
+user	0m0.452s
+sys	0m0.140s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 6 processes
+Started at Sat May 25 21:25:27 BST 2019
+--------------------------------------------------------------------------------
+Rank 4 [Sat May 25 21:25:32 2019] [c6-1c0s3n2] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 3 [Sat May 25 21:25:32 2019] [c6-1c0s3n2] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 5 [Sat May 25 21:25:32 2019] [c6-1c0s3n2] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 1 [Sat May 25 21:25:32 2019] [c6-1c0s3n2] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 2 [Sat May 25 21:25:32 2019] [c6-1c0s3n2] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 0 [Sat May 25 21:25:32 2019] [c6-1c0s3n2] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+_pmiu_daemon(SIGCHLD): [NID 02702] [c6-1c0s3n2] [Sat May 25 21:25:32 2019] PE RANK 4 exit signal Aborted
+[NID 02702] 2019-05-25 21:25:32 Apid 36016321: initiated application termination
+
+real	0m4.655s
+user	0m0.432s
+sys	0m0.144s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 8 processes
+Started at Sat May 25 21:25:34 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m3.041s
+user	0m0.456s
+sys	0m0.120s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 12 processes
+Started at Sat May 25 21:25:37 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.817s
+user	0m0.444s
+sys	0m0.144s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 16 processes
+Started at Sat May 25 21:25:42 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.806s
+user	0m0.472s
+sys	0m0.120s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 24 processes
+Started at Sat May 25 21:25:47 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m4.989s
+user	0m0.488s
+sys	0m0.100s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 1 processes
+Started at Sat May 25 21:25:52 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m8.348s
+user	0m0.460s
+sys	0m0.144s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 2 processes
+Started at Sat May 25 21:26:00 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m6.724s
+user	0m0.468s
+sys	0m0.128s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 3 processes
+Started at Sat May 25 21:26:07 BST 2019
+--------------------------------------------------------------------------------
+Rank 1 [Sat May 25 21:26:11 2019] [c6-1c0s3n2] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 2 [Sat May 25 21:26:11 2019] [c6-1c0s3n2] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 0 [Sat May 25 21:26:11 2019] [c6-1c0s3n2] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+_pmiu_daemon(SIGCHLD): [NID 02702] [c6-1c0s3n2] [Sat May 25 21:26:11 2019] PE RANK 1 exit signal Aborted
+
+real	0m4.279s
+user	0m0.444s
+sys	0m0.136s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 4 processes
+Started at Sat May 25 21:26:11 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.821s
+user	0m0.480s
+sys	0m0.128s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 6 processes
+Started at Sat May 25 21:26:17 BST 2019
+--------------------------------------------------------------------------------
+Rank 0 [Sat May 25 21:26:21 2019] [c6-1c0s3n2] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 2 [Sat May 25 21:26:21 2019] [c6-1c0s3n2] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 3 [Sat May 25 21:26:21 2019] [c6-1c0s3n2] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 4 [Sat May 25 21:26:21 2019] [c6-1c0s3n2] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 5 [Sat May 25 21:26:21 2019] [c6-1c0s3n2] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+Rank 1 [Sat May 25 21:26:21 2019] [c6-1c0s3n2] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+_pmiu_daemon(SIGCHLD): [NID 02702] [c6-1c0s3n2] [Sat May 25 21:26:21 2019] PE RANK 5 exit signal Aborted
+[NID 02702] 2019-05-25 21:26:21 Apid 36016362: initiated application termination
+
+real	0m4.674s
+user	0m0.472s
+sys	0m0.132s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 8 processes
+Started at Sat May 25 21:26:22 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.832s
+user	0m0.464s
+sys	0m0.128s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 12 processes
+Started at Sat May 25 21:26:28 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m6.683s
+user	0m0.464s
+sys	0m0.140s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 16 processes
+Started at Sat May 25 21:26:34 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.160s
+user	0m0.472s
+sys	0m0.124s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 24 processes
+Started at Sat May 25 21:26:39 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.015s
+user	0m0.432s
+sys	0m0.148s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 1 processes
+Started at Sat May 25 21:26:44 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m12.233s
+user	0m0.472s
+sys	0m0.124s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 2 processes
+Started at Sat May 25 21:26:57 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m8.918s
+user	0m0.460s
+sys	0m0.124s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 3 processes
+Started at Sat May 25 21:27:06 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m7.511s
+user	0m0.436s
+sys	0m0.140s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 4 processes
+Started at Sat May 25 21:27:13 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m6.862s
+user	0m0.468s
+sys	0m0.116s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 6 processes
+Started at Sat May 25 21:27:20 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m6.647s
+user	0m0.452s
+sys	0m0.148s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 8 processes
+Started at Sat May 25 21:27:27 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m6.069s
+user	0m0.488s
+sys	0m0.152s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 12 processes
+Started at Sat May 25 21:27:33 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.798s
+user	0m0.464s
+sys	0m0.136s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 16 processes
+Started at Sat May 25 21:27:39 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.535s
+user	0m0.452s
+sys	0m0.148s
+--------------------------------------------------------------------------------
+Running MPI program parallel on 24 processes
+Started at Sat May 25 21:27:44 BST 2019
+--------------------------------------------------------------------------------
+
+real	0m5.344s
+user	0m0.468s
+sys	0m0.136s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 21:27:49 BST 2019
+--------------------------------------------------------------------------------
+
+Resources requested: ncpus=24,place=free,walltime=00:10:00
+Resources allocated: cpupercent=10,cput=00:00:27,mem=10328kb,ncpus=24,vmem=188916kb,walltime=00:03:34
+
+*** bkm1n   Job: 6234404.sdb   ended: 25/05/19 21:27:50   queue: standard ***
+*** bkm1n   Job: 6234404.sdb   ended: 25/05/19 21:27:50   queue: standard ***
+*** bkm1n   Job: 6234404.sdb   ended: 25/05/19 21:27:50   queue: standard ***
+*** bkm1n   Job: 6234404.sdb   ended: 25/05/19 21:27:50   queue: standard ***
+--------------------------------------------------------------------------------

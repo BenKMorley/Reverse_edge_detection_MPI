@@ -1,0 +1,410 @@
+--------------------------------------------------------------------------------
+*** bkm1n   Job: 6236859.sdb   started: 27/05/19 13:33:30   host: mom2 ***
+*** bkm1n   Job: 6236859.sdb   started: 27/05/19 13:33:30   host: mom2 ***
+*** bkm1n   Job: 6236859.sdb   started: 27/05/19 13:33:30   host: mom2 ***
+*** bkm1n   Job: 6236859.sdb   started: 27/05/19 13:33:30   host: mom2 ***
+
+--------------------------------------------------------------------------------
+CC-20 craycc: ERROR File = ./c/parallel2.c, Line = 30
+  The identifier "infile" is undefined.
+    pgmsize(infile, &ni, &nj);
+            ^
+
+CC-20 craycc: ERROR File = ./c/parallel2.c, Line = 123
+  The identifier "masterbuf" is undefined.
+          MPI_Issend(&masterbuf[i*isize][j*jsize], 1, block, send_rank, 0, cart_comm, &request);
+                      ^
+
+CC-20 craycc: ERROR File = ./c/parallel2.c, Line = 197
+  The identifier "delta" is undefined.
+      delta = 0;
+      ^
+
+CC-20 craycc: ERROR File = ./c/parallel2.c, Line = 304
+  The identifier "masterbuf" is undefined.
+          MPI_Recv(&masterbuf[i*isize][j*jsize], 1, block, send_rank, 0, cart_comm, &status);
+                    ^
+
+CC-20 craycc: ERROR File = ./c/parallel2.c, Line = 309
+  The identifier "masterbuf" is undefined.
+      pgmwrite(outfile, &masterbuf[0][0], ni, nj);
+                         ^
+
+CC-20 craycc: ERROR File = ./c/parallel2.c, Line = 324
+  The identifier "masterbuf" is undefined.
+    free(masterbuf);
+         ^
+
+Total errors detected in ./c/parallel2.c: 6
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 1 processes
+Started at Mon May 27 13:33:31 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.922s
+user	0m0.144s
+sys	0m0.108s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 2 processes
+Started at Mon May 27 13:33:32 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.903s
+user	0m0.156s
+sys	0m0.096s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 3 processes
+Started at Mon May 27 13:33:33 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.904s
+user	0m0.192s
+sys	0m0.056s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 4 processes
+Started at Mon May 27 13:33:34 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.907s
+user	0m0.136s
+sys	0m0.112s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 6 processes
+Started at Mon May 27 13:33:35 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.900s
+user	0m0.168s
+sys	0m0.084s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 8 processes
+Started at Mon May 27 13:33:36 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.901s
+user	0m0.168s
+sys	0m0.080s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 12 processes
+Started at Mon May 27 13:33:37 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.901s
+user	0m0.140s
+sys	0m0.112s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 16 processes
+Started at Mon May 27 13:33:38 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.904s
+user	0m0.132s
+sys	0m0.112s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 24 processes
+Started at Mon May 27 13:33:39 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.903s
+user	0m0.160s
+sys	0m0.092s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 1 processes
+Started at Mon May 27 13:33:40 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.904s
+user	0m0.132s
+sys	0m0.120s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 2 processes
+Started at Mon May 27 13:33:41 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.903s
+user	0m0.140s
+sys	0m0.108s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 3 processes
+Started at Mon May 27 13:33:42 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.922s
+user	0m0.136s
+sys	0m0.116s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 4 processes
+Started at Mon May 27 13:33:43 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.909s
+user	0m0.136s
+sys	0m0.116s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 6 processes
+Started at Mon May 27 13:33:43 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.906s
+user	0m0.132s
+sys	0m0.124s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 8 processes
+Started at Mon May 27 13:33:44 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.948s
+user	0m0.156s
+sys	0m0.096s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 12 processes
+Started at Mon May 27 13:33:45 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.895s
+user	0m0.124s
+sys	0m0.128s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 16 processes
+Started at Mon May 27 13:33:46 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.904s
+user	0m0.152s
+sys	0m0.100s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 24 processes
+Started at Mon May 27 13:33:47 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.921s
+user	0m0.164s
+sys	0m0.088s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 1 processes
+Started at Mon May 27 13:33:48 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.910s
+user	0m0.152s
+sys	0m0.104s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 2 processes
+Started at Mon May 27 13:33:49 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.918s
+user	0m0.144s
+sys	0m0.108s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 3 processes
+Started at Mon May 27 13:33:50 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.912s
+user	0m0.164s
+sys	0m0.088s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 4 processes
+Started at Mon May 27 13:33:51 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.911s
+user	0m0.144s
+sys	0m0.108s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 6 processes
+Started at Mon May 27 13:33:52 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.908s
+user	0m0.168s
+sys	0m0.084s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 8 processes
+Started at Mon May 27 13:33:53 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.906s
+user	0m0.200s
+sys	0m0.052s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 12 processes
+Started at Mon May 27 13:33:54 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.910s
+user	0m0.140s
+sys	0m0.112s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 16 processes
+Started at Mon May 27 13:33:55 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.903s
+user	0m0.176s
+sys	0m0.076s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 24 processes
+Started at Mon May 27 13:33:55 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.913s
+user	0m0.164s
+sys	0m0.088s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 1 processes
+Started at Mon May 27 13:33:56 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.903s
+user	0m0.152s
+sys	0m0.100s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 2 processes
+Started at Mon May 27 13:33:57 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.909s
+user	0m0.168s
+sys	0m0.084s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 3 processes
+Started at Mon May 27 13:33:58 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.908s
+user	0m0.148s
+sys	0m0.100s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 4 processes
+Started at Mon May 27 13:33:59 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.907s
+user	0m0.140s
+sys	0m0.108s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 6 processes
+Started at Mon May 27 13:34:00 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.905s
+user	0m0.128s
+sys	0m0.120s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 8 processes
+Started at Mon May 27 13:34:01 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.904s
+user	0m0.136s
+sys	0m0.116s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 12 processes
+Started at Mon May 27 13:34:02 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.913s
+user	0m0.148s
+sys	0m0.096s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 16 processes
+Started at Mon May 27 13:34:03 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.909s
+user	0m0.136s
+sys	0m0.116s
+--------------------------------------------------------------------------------
+Running MPI program parallel2 on 24 processes
+Started at Mon May 27 13:34:04 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/parallel2 not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.901s
+user	0m0.152s
+sys	0m0.096s
+--------------------------------------------------------------------------------
+Finished at Mon May 27 13:34:05 BST 2019
+--------------------------------------------------------------------------------
+
+Resources requested: ncpus=24,place=free,walltime=00:10:00
+Resources allocated: cpupercent=0,cput=00:00:10,mem=10772kb,ncpus=24,vmem=123068kb,walltime=00:00:35
+
+*** bkm1n   Job: 6236859.sdb   ended: 27/05/19 13:34:05   queue: standard ***
+*** bkm1n   Job: 6236859.sdb   ended: 27/05/19 13:34:05   queue: standard ***
+*** bkm1n   Job: 6236859.sdb   ended: 27/05/19 13:34:05   queue: standard ***
+*** bkm1n   Job: 6236859.sdb   ended: 27/05/19 13:34:05   queue: standard ***
+--------------------------------------------------------------------------------

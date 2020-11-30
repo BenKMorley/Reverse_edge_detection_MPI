@@ -1,0 +1,30 @@
+--------------------------------------------------------------------------------
+*** bkm1n   Job: 6234099.sdb   started: 25/05/19 16:46:37   host: mom5 ***
+*** bkm1n   Job: 6234099.sdb   started: 25/05/19 16:46:37   host: mom5 ***
+*** bkm1n   Job: 6234099.sdb   started: 25/05/19 16:46:37   host: mom5 ***
+*** bkm1n   Job: 6234099.sdb   started: 25/05/19 16:46:37   host: mom5 ***
+
+--------------------------------------------------------------------------------
+/home/y14/y14/bkm1n/MPI/archer
+--------------------------------------------------------------------------------
+Running MPI program test on 4 processes
+Started at Sat May 25 16:46:38 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/test not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m0.931s
+user	0m0.164s
+sys	0m0.120s
+--------------------------------------------------------------------------------
+Finished at Sat May 25 16:46:39 BST 2019
+--------------------------------------------------------------------------------
+
+Resources requested: ncpus=24,place=free,walltime=00:01:00
+Resources allocated: cpupercent=0,cput=00:00:00,mem=0kb,ncpus=24,vmem=0kb,walltime=00:00:02
+
+*** bkm1n   Job: 6234099.sdb   ended: 25/05/19 16:46:39   queue: R6210562 ***
+*** bkm1n   Job: 6234099.sdb   ended: 25/05/19 16:46:39   queue: R6210562 ***
+*** bkm1n   Job: 6234099.sdb   ended: 25/05/19 16:46:39   queue: R6210562 ***
+*** bkm1n   Job: 6234099.sdb   ended: 25/05/19 16:46:39   queue: R6210562 ***
+--------------------------------------------------------------------------------

@@ -1,0 +1,413 @@
+Process 0 here with coords : [0, 0]
+Process 72 here with coords : [9, 0]
+Process 48 here with coords : [6, 0]
+Process 24 here with coords : [3, 0]
+Process 10 here with coords : [1, 2]
+Process 1 here with coords : [0, 1]
+Process 11 here with coords : [1, 3]
+Process 5 here with coords : [0, 5]
+Process 3 here with coords : [0, 3]
+Process 7 here with coords : [0, 7]
+Process 8 here with coords : [1, 0]
+Process 9 here with coords : [1, 1]
+Process 2 here with coords : [0, 2]
+Process 4 here with coords : [0, 4]
+Process 6 here with coords : [0, 6]
+Process 20 here with coords : [2, 4]
+Process 16 here with coords : [2, 0]
+Process 19 here with coords : [2, 3]
+Process 14 here with coords : [1, 6]
+Process 12 here with coords : [1, 4]
+Process 13 here with coords : [1, 5]
+Process 23 here with coords : [2, 7]
+Process 21 here with coords : [2, 5]
+Process 17 here with coords : [2, 1]
+Process 18 here with coords : [2, 2]
+Process 22 here with coords : [2, 6]
+Process 15 here with coords : [1, 7]
+process 0 has neighbours up 1, down -1, left -1, right 8
+process 16 has neighbours up 17, down -1, left 8, right 24
+process 20 has neighbours up 21, down 19, left 12, right 28
+process 19 has neighbours up 20, down 18, left 11, right 27
+process 2 has neighbours up 3, down 1, left -1, right 10
+process 15 has neighbours up -1, down 14, left 7, right 23
+process 12 has neighbours up 13, down 11, left 4, right 20
+process 8 has neighbours up 9, down -1, left 0, right 16
+process 18 has neighbours up 19, down 17, left 10, right 26
+process 5 has neighbours up 6, down 4, left -1, right 13
+process 14 has neighbours up 15, down 13, left 6, right 22
+process 9 has neighbours up 10, down 8, left 1, right 17
+process 6 has neighbours up 7, down 5, left -1, right 14
+process 1 has neighbours up 2, down 0, left -1, right 9
+process 23 has neighbours up -1, down 22, left 15, right 31
+process 21 has neighbours up 22, down 20, left 13, right 29
+process 22 has neighbours up 23, down 21, left 14, right 30
+process 4 has neighbours up 5, down 3, left -1, right 12
+process 11 has neighbours up 12, down 10, left 3, right 19
+process 10 has neighbours up 11, down 9, left 2, right 18
+process 13 has neighbours up 14, down 12, left 5, right 21
+process 7 has neighbours up -1, down 6, left -1, right 15
+process 3 has neighbours up 4, down 2, left -1, right 11
+process 17 has neighbours up 18, down 16, left 9, right 25
+Completed 0 iterations
+delta = 92.000000
+Average pixal value = 2.661306
+Completed 100 iterations
+delta = 0.881046
+Average pixal value = 2.798970
+Completed 200 iterations
+delta = 0.543216
+Average pixal value = 2.875517
+Completed 300 iterations
+delta = 0.389695
+Average pixal value = 2.926979
+Completed 400 iterations
+delta = 0.300161
+Average pixal value = 2.953019
+Process 66 here with coords : [8, 2]
+Process 56 here with coords : [7, 0]
+Process 60 here with coords : [7, 4]
+Process 57 here with coords : [7, 1]
+Process 63 here with coords : [7, 7]
+Process 50 here with coords : [6, 2]
+Process 51 here with coords : [6, 3]
+Process 68 here with coords : [8, 4]
+Process 59 here with coords : [7, 3]
+Process 71 here with coords : [8, 7]
+Process 55 here with coords : [6, 7]
+Process 70 here with coords : [8, 6]
+Process 62 here with coords : [7, 6]
+Process 64 here with coords : [8, 0]
+Process 67 here with coords : [8, 3]
+Process 65 here with coords : [8, 1]
+Process 53 here with coords : [6, 5]
+Process 69 here with coords : [8, 5]
+Process 49 here with coords : [6, 1]
+Process 58 here with coords : [7, 2]
+Process 54 here with coords : [6, 6]
+Process 52 here with coords : [6, 4]
+Process 61 here with coords : [7, 5]
+Process 82 here with coords : [10, 2]
+Process 83 here with coords : [10, 3]
+Process 79 here with coords : [9, 7]
+Process 74 here with coords : [9, 2]
+Process 75 here with coords : [9, 3]
+Process 80 here with coords : [10, 0]
+Process 76 here with coords : [9, 4]
+Process 81 here with coords : [10, 1]
+Process 77 here with coords : [9, 5]
+Process 89 here with coords : [11, 1]
+Process 78 here with coords : [9, 6]
+Process 85 here with coords : [10, 5]
+Process 73 here with coords : [9, 1]
+Process 90 here with coords : [11, 2]
+Process 87 here with coords : [10, 7]
+Process 92 here with coords : [11, 4]
+Process 94 here with coords : [11, 6]
+Process 84 here with coords : [10, 4]
+Process 91 here with coords : [11, 3]
+Process 95 here with coords : [11, 7]
+Process 93 here with coords : [11, 5]
+Process 88 here with coords : [11, 0]
+Process 86 here with coords : [10, 6]
+process 55 has neighbours up -1, down 54, left 47, right 63
+process 68 has neighbours up 69, down 67, left 60, right 76
+process 71 has neighbours up -1, down 70, left 63, right 79
+process 54 has neighbours up 55, down 53, left 46, right 62
+process 58 has neighbours up 59, down 57, left 50, right 66
+process 52 has neighbours up 53, down 51, left 44, right 60
+process 48 has neighbours up 49, down -1, left 40, right 56
+Process 34 here with coords : [4, 2]
+Process 30 here with coords : [3, 6]
+Process 28 here with coords : [3, 4]
+Process 35 here with coords : [4, 3]
+Process 33 here with coords : [4, 1]
+Process 27 here with coords : [3, 3]
+Process 44 here with coords : [5, 4]
+Process 25 here with coords : [3, 1]
+Process 45 here with coords : [5, 5]
+Process 36 here with coords : [4, 4]
+Process 42 here with coords : [5, 2]
+Process 46 here with coords : [5, 6]
+Process 29 here with coords : [3, 5]
+Process 40 here with coords : [5, 0]
+Process 26 here with coords : [3, 2]
+Process 43 here with coords : [5, 3]
+Process 32 here with coords : [4, 0]
+Process 31 here with coords : [3, 7]
+Process 37 here with coords : [4, 5]
+Process 41 here with coords : [5, 1]
+Process 47 here with coords : [5, 7]
+Process 38 here with coords : [4, 6]
+Process 39 here with coords : [4, 7]
+process 24 has neighbours up 25, down -1, left 16, right 32
+process 46 has neighbours up 47, down 45, left 38, right 54
+process 47 has neighbours up -1, down 46, left 39, right 55
+process 32 has neighbours up 33, down -1, left 24, right 40
+process 35 has neighbours up 36, down 34, left 27, right 43
+process 36 has neighbours up 37, down 35, left 28, right 44
+process 27 has neighbours up 28, down 26, left 19, right 35
+process 39 has neighbours up -1, down 38, left 31, right 47
+process 25 has neighbours up 26, down 24, left 17, right 33
+process 45 has neighbours up 46, down 44, left 37, right 53
+process 33 has neighbours up 34, down 32, left 25, right 41
+process 30 has neighbours up 31, down 29, left 22, right 38
+process 49 has neighbours up 50, down 48, left 41, right 57
+process 62 has neighbours up 63, down 61, left 54, right 70
+process 53 has neighbours up 54, down 52, left 45, right 61
+process 66 has neighbours up 67, down 65, left 58, right 74
+process 51 has neighbours up 52, down 50, left 43, right 59
+process 60 has neighbours up 61, down 59, left 52, right 68
+process 57 has neighbours up 58, down 56, left 49, right 65
+process 69 has neighbours up 70, down 68, left 61, right 77
+process 63 has neighbours up -1, down 62, left 55, right 71
+process 61 has neighbours up 62, down 60, left 53, right 69
+process 65 has neighbours up 66, down 64, left 57, right 73
+process 67 has neighbours up 68, down 66, left 59, right 75
+process 70 has neighbours up 71, down 69, left 62, right 78
+process 64 has neighbours up 65, down -1, left 56, right 72
+process 59 has neighbours up 60, down 58, left 51, right 67
+process 50 has neighbours up 51, down 49, left 42, right 58
+process 56 has neighbours up 57, down -1, left 48, right 64
+process 80 has neighbours up 81, down -1, left 72, right 88
+process 77 has neighbours up 78, down 76, left 69, right 85
+process 75 has neighbours up 76, down 74, left 67, right 83
+process 88 has neighbours up 89, down -1, left 80, right -1
+process 94 has neighbours up 95, down 93, left 86, right -1
+process 87 has neighbours up -1, down 86, left 79, right 95
+process 78 has neighbours up 79, down 77, left 70, right 86
+process 90 has neighbours up 91, down 89, left 82, right -1
+process 92 has neighbours up 93, down 91, left 84, right -1
+process 76 has neighbours up 77, down 75, left 68, right 84
+process 93 has neighbours up 94, down 92, left 85, right -1
+process 72 has neighbours up 73, down -1, left 64, right 80
+process 83 has neighbours up 84, down 82, left 75, right 91
+process 84 has neighbours up 85, down 83, left 76, right 92
+process 82 has neighbours up 83, down 81, left 74, right 90
+process 86 has neighbours up 87, down 85, left 78, right 94
+process 81 has neighbours up 82, down 80, left 73, right 89
+process 73 has neighbours up 74, down 72, left 65, right 81
+process 91 has neighbours up 92, down 90, left 83, right -1
+process 79 has neighbours up -1, down 78, left 71, right 87
+process 95 has neighbours up -1, down 94, left 87, right -1
+process 85 has neighbours up 86, down 84, left 77, right 93
+process 89 has neighbours up 90, down 88, left 81, right -1
+process 74 has neighbours up 75, down 73, left 66, right 82
+process 28 has neighbours up 29, down 27, left 20, right 36
+process 29 has neighbours up 30, down 28, left 21, right 37
+process 43 has neighbours up 44, down 42, left 35, right 51
+process 44 has neighbours up 45, down 43, left 36, right 52
+process 41 has neighbours up 42, down 40, left 33, right 49
+process 40 has neighbours up 41, down -1, left 32, right 48
+process 37 has neighbours up 38, down 36, left 29, right 45
+process 26 has neighbours up 27, down 25, left 18, right 34
+process 34 has neighbours up 35, down 33, left 26, right 42
+process 31 has neighbours up -1, down 30, left 23, right 39
+process 42 has neighbours up 43, down 41, left 34, right 50
+process 38 has neighbours up 39, down 37, left 30, right 46
+Completed 500 iterations
+delta = 0.251143
+Average pixal value = 2.961169
+Completed 600 iterations
+delta = 0.215381
+Average pixal value = 2.956786
+Completed 700 iterations
+delta = 0.188353
+Average pixal value = 2.956724
+Completed 800 iterations
+delta = 0.167692
+Average pixal value = 2.958621
+Completed 900 iterations
+delta = 0.151422
+Average pixal value = 2.957328
+Completed 1000 iterations
+delta = 0.138321
+Average pixal value = 2.953075
+Completed 1100 iterations
+delta = 0.127410
+Average pixal value = 2.946091
+Completed 1200 iterations
+delta = 0.118082
+Average pixal value = 2.936622
+Completed 1300 iterations
+delta = 0.110009
+Average pixal value = 2.924922
+Completed 1400 iterations
+delta = 0.102907
+Average pixal value = 2.914814
+Completed 1500 iterations
+delta = 0.096618
+Average pixal value = 2.905018
+Completed 1600 iterations
+delta = 0.091042
+Average pixal value = 2.893556
+Completed 1700 iterations
+delta = 0.086053
+Average pixal value = 2.880637
+Completed 1800 iterations
+delta = 0.081575
+Average pixal value = 2.866453
+Completed 1900 iterations
+delta = 0.077555
+Average pixal value = 2.851172
+Completed 2000 iterations
+delta = 0.073930
+Average pixal value = 2.834949
+Completed 2100 iterations
+delta = 0.070647
+Average pixal value = 2.817919
+Completed 2200 iterations
+delta = 0.067682
+Average pixal value = 2.800207
+Completed 2300 iterations
+delta = 0.064975
+Average pixal value = 2.781924
+Completed 2400 iterations
+delta = 0.062490
+Average pixal value = 2.763167
+Completed 2500 iterations
+delta = 0.060218
+Average pixal value = 2.744027
+Completed 2600 iterations
+delta = 0.058122
+Average pixal value = 2.724581
+Completed 2700 iterations
+delta = 0.056182
+Average pixal value = 2.704902
+Completed 2800 iterations
+delta = 0.054388
+Average pixal value = 2.685053
+Completed 2900 iterations
+delta = 0.052715
+Average pixal value = 2.665090
+Completed 3000 iterations
+delta = 0.051155
+Average pixal value = 2.645063
+Completed 3100 iterations
+delta = 0.049682
+Average pixal value = 2.625018
+Completed 3200 iterations
+delta = 0.048305
+Average pixal value = 2.604994
+Completed 3300 iterations
+delta = 0.047003
+Average pixal value = 2.585026
+Completed 3400 iterations
+delta = 0.045778
+Average pixal value = 2.565147
+Completed 3500 iterations
+delta = 0.044612
+Average pixal value = 2.545383
+Completed 3600 iterations
+delta = 0.043498
+Average pixal value = 2.525758
+Completed 3700 iterations
+delta = 0.042441
+Average pixal value = 2.506295
+Completed 3800 iterations
+delta = 0.041429
+Average pixal value = 2.487012
+Completed 3900 iterations
+delta = 0.040454
+Average pixal value = 2.467924
+Completed 4000 iterations
+delta = 0.039524
+Average pixal value = 2.449047
+Completed 4100 iterations
+delta = 0.038625
+Average pixal value = 2.430392
+Completed 4200 iterations
+delta = 0.037757
+Average pixal value = 2.411969
+Completed 4300 iterations
+delta = 0.036920
+Average pixal value = 2.393789
+Completed 4400 iterations
+delta = 0.036106
+Average pixal value = 2.375857
+Completed 4500 iterations
+delta = 0.035320
+Average pixal value = 2.358180
+Completed 4600 iterations
+delta = 0.034554
+Average pixal value = 2.340763
+Completed 4700 iterations
+delta = 0.033811
+Average pixal value = 2.323611
+Completed 4800 iterations
+delta = 0.033086
+Average pixal value = 2.306726
+Completed 4900 iterations
+delta = 0.032378
+Average pixal value = 2.290110
+Completed 5000 iterations
+delta = 0.031691
+Average pixal value = 2.273766
+Completed 5100 iterations
+delta = 0.031018
+Average pixal value = 2.257693
+Completed 5200 iterations
+delta = 0.030360
+Average pixal value = 2.241893
+Completed 5300 iterations
+delta = 0.029721
+Average pixal value = 2.226364
+Completed 5400 iterations
+delta = 0.029093
+Average pixal value = 2.211107
+Completed 5500 iterations
+delta = 0.028478
+Average pixal value = 2.196121
+Completed 5600 iterations
+delta = 0.027879
+Average pixal value = 2.181403
+Completed 5700 iterations
+delta = 0.027293
+Average pixal value = 2.166952
+Completed 5800 iterations
+delta = 0.026718
+Average pixal value = 2.152766
+Completed 5900 iterations
+delta = 0.026155
+Average pixal value = 2.140182
+Completed 6000 iterations
+delta = 0.025603
+Average pixal value = 2.136691
+Completed 6100 iterations
+delta = 0.025066
+Average pixal value = 2.133287
+Completed 6200 iterations
+delta = 0.024539
+Average pixal value = 2.129969
+Completed 6300 iterations
+delta = 0.024023
+Average pixal value = 2.126733
+Completed 6400 iterations
+delta = 0.023517
+Average pixal value = 2.123576
+Completed 6500 iterations
+delta = 0.023021
+Average pixal value = 2.120497
+Completed 6600 iterations
+delta = 0.022535
+Average pixal value = 2.117492
+Completed 6700 iterations
+delta = 0.022061
+Average pixal value = 2.114561
+Completed 6800 iterations
+delta = 0.021596
+Average pixal value = 2.111699
+Completed 6900 iterations
+delta = 0.021141
+Average pixal value = 2.108906
+Completed 7000 iterations
+delta = 0.020696
+Average pixal value = 2.106179
+Completed 7100 iterations
+delta = 0.020259
+Average pixal value = 2.103517
+Completed 7200 iterations
+delta = 0.019831
+Average pixal value = 2.100918
+Writing 192 x 128 picture into file: ./im/out_96_edge192x128.pgm
+Application 36028083 resources: utime ~32s, stime ~8s, Rss ~12928, inblocks ~74021, outblocks ~78850

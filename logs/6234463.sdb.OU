@@ -1,0 +1,25 @@
+--------------------------------------------------------------------------------
+*** bkm1n   Job: 6234463.sdb   started: 25/05/19 22:26:32   host: mom3 ***
+*** bkm1n   Job: 6234463.sdb   started: 25/05/19 22:26:32   host: mom3 ***
+*** bkm1n   Job: 6234463.sdb   started: 25/05/19 22:26:32   host: mom3 ***
+*** bkm1n   Job: 6234463.sdb   started: 25/05/19 22:26:32   host: mom3 ***
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Running MPI program parallel on 1 processes
+Started at Sat May 25 22:26:41 BST 2019
+--------------------------------------------------------------------------------
+Rank 0 [Sat May 25 22:26:44 2019] [c6-1c1s13n1] Fatal error in PMPI_Comm_rank: Invalid communicator, error stack:
+PMPI_Comm_rank(110): MPI_Comm_rank(MPI_COMM_NULL, rank=0x7fffffff7210) failed
+PMPI_Comm_rank(67).: Null communicator
+_pmiu_daemon(SIGCHLD): [NID 02805] [c6-1c1s13n1] [Sat May 25 22:26:44 2019] PE RANK 0 exit signal Aborted
+--------------------------------------------------------------------------------
+
+Resources requested: ncpus=24,place=free,walltime=00:10:00
+Resources allocated: cpupercent=0,cput=00:00:06,mem=8924kb,ncpus=24,vmem=123068kb,walltime=00:00:14
+
+*** bkm1n   Job: 6234463.sdb   ended: 25/05/19 22:26:46   queue: R6210562 ***
+*** bkm1n   Job: 6234463.sdb   ended: 25/05/19 22:26:46   queue: R6210562 ***
+*** bkm1n   Job: 6234463.sdb   ended: 25/05/19 22:26:46   queue: R6210562 ***
+*** bkm1n   Job: 6234463.sdb   ended: 25/05/19 22:26:46   queue: R6210562 ***
+--------------------------------------------------------------------------------

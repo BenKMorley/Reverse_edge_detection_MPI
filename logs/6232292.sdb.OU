@@ -1,0 +1,32 @@
+--------------------------------------------------------------------------------
+*** bkm1n   Job: 6232292.sdb   started: 24/05/19 15:53:56   host: mom1 ***
+*** bkm1n   Job: 6232292.sdb   started: 24/05/19 15:53:56   host: mom1 ***
+*** bkm1n   Job: 6232292.sdb   started: 24/05/19 15:53:56   host: mom1 ***
+*** bkm1n   Job: 6232292.sdb   started: 24/05/19 15:53:56   host: mom1 ***
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Running MPI program parallel on 4 processes
+Started at Fri May 24 15:53:57 BST 2019
+--------------------------------------------------------------------------------
+pgmsize: cannot open <edge192x128.pgm>
+pgmsize: cannot open <edge192x128.pgm>
+pgmsize: cannot open <edge192x128.pgm>
+pgmsize: cannot open <edge192x128.pgm>
+[NID 03069] 2019-05-24 15:53:59 Apid 35997237: initiated application termination
+
+real	0m2.591s
+user	0m0.508s
+sys	0m0.084s
+--------------------------------------------------------------------------------
+Finished at Fri May 24 15:54:00 BST 2019
+--------------------------------------------------------------------------------
+
+Resources requested: ncpus=24,place=free,walltime=00:01:00
+Resources allocated: cpupercent=0,cput=00:00:01,mem=0kb,ncpus=24,vmem=0kb,walltime=00:00:04
+
+*** bkm1n   Job: 6232292.sdb   ended: 24/05/19 15:54:00   queue: R6210562 ***
+*** bkm1n   Job: 6232292.sdb   ended: 24/05/19 15:54:00   queue: R6210562 ***
+*** bkm1n   Job: 6232292.sdb   ended: 24/05/19 15:54:00   queue: R6210562 ***
+*** bkm1n   Job: 6232292.sdb   ended: 24/05/19 15:54:00   queue: R6210562 ***
+--------------------------------------------------------------------------------

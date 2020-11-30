@@ -1,0 +1,18 @@
+--------------------------------------------------------------------------------
+*** bkm1n   Job: 6234443.sdb   started: 25/05/19 22:03:20   host: mom5 ***
+*** bkm1n   Job: 6234443.sdb   started: 25/05/19 22:03:20   host: mom5 ***
+*** bkm1n   Job: 6234443.sdb   started: 25/05/19 22:03:20   host: mom5 ***
+*** bkm1n   Job: 6234443.sdb   started: 25/05/19 22:03:20   host: mom5 ***
+
+--------------------------------------------------------------------------------
+/var/spool/PBS/mom_priv/jobs/6234443.sdb.SC: line 82: syntax error: unexpected end of file
+--------------------------------------------------------------------------------
+
+Resources requested: ncpus=24,place=free,walltime=00:10:00
+Resources allocated: cpupercent=0,cput=00:00:06,mem=18632kb,ncpus=24,vmem=75088kb,walltime=00:00:11
+
+*** bkm1n   Job: 6234443.sdb   ended: 25/05/19 22:03:31   queue: R6210562 ***
+*** bkm1n   Job: 6234443.sdb   ended: 25/05/19 22:03:31   queue: R6210562 ***
+*** bkm1n   Job: 6234443.sdb   ended: 25/05/19 22:03:31   queue: R6210562 ***
+*** bkm1n   Job: 6234443.sdb   ended: 25/05/19 22:03:31   queue: R6210562 ***
+--------------------------------------------------------------------------------

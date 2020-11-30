@@ -1,0 +1,33 @@
+--------------------------------------------------------------------------------
+*** bkm1n   Job: 6237055.sdb   started: 27/05/19 15:57:35   host: mom5 ***
+*** bkm1n   Job: 6237055.sdb   started: 27/05/19 15:57:35   host: mom5 ***
+*** bkm1n   Job: 6237055.sdb   started: 27/05/19 15:57:35   host: mom5 ***
+*** bkm1n   Job: 6237055.sdb   started: 27/05/19 15:57:35   host: mom5 ***
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Running MPI program parallel on 1 processes
+Started at Mon May 27 15:57:44 BST 2019
+--------------------------------------------------------------------------------
+aprun: Apid 36027123: Caught signal Terminated, sending to application
+_pmiu_daemon(SIGCHLD): [NID 00844] [c4-0c1s3n0] [Mon May 27 16:01:54 2019] PE RANK 0 exit signal Terminated
+--------------------------------------------------------------------------------
+
+Resources requested: ncpus=24,place=free,walltime=00:10:00
+Resources allocated: cpupercent=0,cput=00:00:06,mem=9232kb,ncpus=24,vmem=188748kb,walltime=00:04:19
+
+*** bkm1n   Job: 6237055.sdb   ended: 27/05/19 16:01:57   queue: R6228589 ***
+*** bkm1n   Job: 6237055.sdb   ended: 27/05/19 16:01:57   queue: R6228589 ***
+*** bkm1n   Job: 6237055.sdb   ended: 27/05/19 16:01:57   queue: R6228589 ***
+*** bkm1n   Job: 6237055.sdb   ended: 27/05/19 16:01:57   queue: R6228589 ***
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+Resources requested: ncpus=24,place=free,walltime=00:10:00
+Resources allocated: cpupercent=0,cput=00:00:06,mem=9232kb,ncpus=24,vmem=188748kb,walltime=00:04:22
+
+*** bkm1n   Job: 6237055.sdb   ended: 27/05/19 16:01:57   queue: R6228589 ***
+*** bkm1n   Job: 6237055.sdb   ended: 27/05/19 16:01:57   queue: R6228589 ***
+*** bkm1n   Job: 6237055.sdb   ended: 27/05/19 16:01:57   queue: R6228589 ***
+*** bkm1n   Job: 6237055.sdb   ended: 27/05/19 16:01:57   queue: R6228589 ***
+--------------------------------------------------------------------------------

@@ -1,0 +1,31 @@
+--------------------------------------------------------------------------------
+*** bkm1n   Job: 6232685.sdb   started: 24/05/19 17:35:53   host: mom2 ***
+*** bkm1n   Job: 6232685.sdb   started: 24/05/19 17:35:53   host: mom2 ***
+*** bkm1n   Job: 6232685.sdb   started: 24/05/19 17:35:53   host: mom2 ***
+*** bkm1n   Job: 6232685.sdb   started: 24/05/19 17:35:53   host: mom2 ***
+
+--------------------------------------------------------------------------------
+basename: invalid option -- 'n'
+Try `basename --help' for more information.
+--------------------------------------------------------------------------------
+Running MPI program on 4 processes
+Started at Fri May 24 17:35:53 BST 2019
+--------------------------------------------------------------------------------
+aprun: file ./ex/ not found
+aprun: Exiting due to errors. Application aborted
+
+real	0m1.041s
+user	0m0.196s
+sys	0m0.100s
+--------------------------------------------------------------------------------
+Finished at Fri May 24 17:35:54 BST 2019
+--------------------------------------------------------------------------------
+
+Resources requested: ncpus=24,place=free,walltime=00:01:00
+Resources allocated: cpupercent=0,cput=00:00:00,mem=0kb,ncpus=24,vmem=0kb,walltime=00:00:02
+
+*** bkm1n   Job: 6232685.sdb   ended: 24/05/19 17:35:54   queue: R6210562 ***
+*** bkm1n   Job: 6232685.sdb   ended: 24/05/19 17:35:54   queue: R6210562 ***
+*** bkm1n   Job: 6232685.sdb   ended: 24/05/19 17:35:54   queue: R6210562 ***
+*** bkm1n   Job: 6232685.sdb   ended: 24/05/19 17:35:54   queue: R6210562 ***
+--------------------------------------------------------------------------------
